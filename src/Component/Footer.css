@@ -1,0 +1,495 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,700;1,800&display=swap');
+.main-footer
+{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+
+.main-footer-img
+{
+    top: -100px;
+    background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/food-background-P4V5TZX.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-self: flex-end;
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    padding-left: 150px;
+    padding-right: 130px;
+    justify-content: space-around;
+}
+
+.footer-one
+{
+    height: 90vh;
+    width: 47%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.footer-one-first
+{
+    height: 30vh;
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-self: end;
+
+}
+.footer-one-second
+{
+    height: 15%;
+    width: 95%;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 140%;
+}
+
+.footer-one-third
+{
+    height: 15%;
+    width: 50%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+
+
+}
+
+.footer-one-third-icon-one
+{
+    width: 40px;
+    height: 40px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: #7FB704;
+}
+
+.footer-one-third-icon-two
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: #7FB704;
+}
+.footer-one-third-icon-three
+{
+    width: 40px;
+    height: 40px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content:space-between;
+    color: #7FB704;
+}
+
+.footer-one-third-icon-four
+{
+
+    width: 40px;
+    height: 40px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    color: #7FB704;
+
+}
+
+.footer-one-fourth
+{
+    height: 20%;
+       width: 95%;
+    position: relative;
+    top: -10px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    
+    
+}
+
+
+.footer-two
+{
+    position: relative;
+    top: -79px;
+    height: 100vh;
+    width: 50%;
+    background: rgb(127,183,0);
+    background: linear-gradient(0deg, rgba(127,183,0,1) 0%, rgba(19,155,11,1) 100%);
+    border-radius: 70px 70px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.footer-one-first-box
+{
+    width: 100%;
+    height: 70%;
+    padding-left: 30px;
+    display: flex;
+    align-items: flex-end;
+}
+
+
+.footer-one-first-box-logo-container
+{
+    width: 50%;
+    height: 100%;
+    background-image: url(../Component/images/TG-Logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.footer-two-contact
+{
+    height: 85%;
+    width: 100%;
+}
+
+.footer-two-contact-heading
+{
+    height: 15%;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;   
+}
+
+.footer-contact-form
+{
+    height: 85%;
+    width: 100%;
+    padding: 10% 15% 10% 15%;
+}
+
+input
+{
+    height: 80%;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 20px;
+    padding-left: 5%;
+    border: 1px solid;
+    border-color: #E2F6B9;
+    line-height: 26px;
+    font-size: 15px;
+    color: white;
+
+    
+}
+
+.footer-contact-field::placeholder
+{
+    
+    color: rgb(212, 212, 212);
+    font-size: 17px;
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+}
+
+input:focus, textarea:focus, select:focus{
+    outline: none;
+    background-color: white;
+    color: black;
+}
+
+input:focus::-webkit-input-placeholder
+{
+    color: rgb(126, 126, 126);
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+}
+
+textarea:focus::-webkit-input-placeholder
+{
+    color: rgb(126, 126, 126);
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+    
+}
+
+.footer-contact-form-field-container
+{
+    height: 20%;
+    width: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.footer-contact-form-message-container
+{
+    height: 30%;
+    width: 100%;
+
+}
+
+.footer-contact-message
+{
+    width: 100%;
+    height: 80%;    background-color: rgba(255, 255, 255, 0);
+    border-radius: 20px;
+    padding-left: 5%;
+    padding-left: 3%;
+    border: 1px solid;
+    border-color: #E2F6B9;
+    line-height: 26px;
+    font-size: 15px;
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+    
+}
+.footer-contact-message::placeholder
+{
+    
+    color: rgb(209, 209, 209);
+    font-size: 17px;
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+}
+
+textarea{
+    padding: 1% 2% 1% 10%;
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+}
+
+.footer-contact-form-button-container
+{
+    height: 12%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+   
+}
+
+.footer-contact-form-button
+{
+    min-height: 40%;
+    height: 100%;
+    width: 30%;
+    border-radius: 50px;
+    border: none;
+    border-color: #E2F6B9;
+    transition: 0.5s ease;
+    font-size: 17px;
+    color: white;
+    background-color: rgb(251,181,34);
+
+}
+.footer-contact-form-button:hover
+{
+    transform: scale(1.1);
+    background-color: rgb(247, 168, 0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 480px)
+{
+    .main-footer
+{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.main-footer-img
+{
+
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0px;
+}
+.footer-one
+{
+    height: 50vh;
+    width: 100%;
+    padding-top: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.footer-one-first
+{
+    height: 30%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-self: end;
+
+}
+.footer-one-first-box
+{
+    width: 100%;
+    height: 50%;
+    padding-left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-one-first-box-logo-container
+{
+    width: 100%;
+    height: 9vh;
+    max-height: auto;
+    background-position: center;
+    background-image: url(../Component/images/TG-Logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+
+}
+.footer-one-second
+{
+    padding: 12px;
+    padding-left:30px;
+    padding-right:30px;
+    height: 30%;
+    width: 95%;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+    font-weight: 300;
+    font-size: 3vw;
+    text-align: justify;
+    line-height: 140%;
+}
+.footer-one-third
+{
+    height: 20%;
+    width: 50%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.footer-one-third-icon-one
+{
+    width: 30px;
+    height: 30px;
+    color: #1C4D4E;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.footer-one-third-icon-two
+{
+    width: 30px;
+    height: 30px;
+    color: #1C4D4E;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content:space-between;
+}
+.footer-one-third-icon-three
+{
+    width: 30px;
+    height: 30px;
+    color: #1C4D4E;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content:space-between;
+}
+.footer-one-third-icon-four
+{
+
+    width: 30px;
+    height: 30px;
+    color: #1C4D4E;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+
+}
+
+.footer-one-fourth
+{
+    height: 10%;
+    width: 100%;
+    position: relative;
+    top: -10px;
+    font-size: 3vw;
+    font-weight: 200;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+
+
+.footer-two
+{
+    position:static;
+    top: -0px;
+    height: 100vh;
+    width: 100%;
+    background: rgb(127,183,0);
+    background: linear-gradient(0deg, rgba(127,183,0,1) 0%, rgba(19,155,11,1) 100%);
+    border-radius: 20px 20px 0px 0px ;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.footer-contact-form-button
+{
+    min-height: 40%;
+    height: 100%;
+    width: 60%;
+    border-radius: 50px;
+    border: none;
+    border-color: #E2F6B9;
+    transition: 0.5s ease;
+    font-size: 17px;
+    color: white;
+    background-color: rgb(251,181,34);
+
+}
+
+.footer-contact-form
+{
+    height: 85%;
+    width: 100%;
+    padding: 10% 10% 10% 10%;
+}
+
+
+}
+

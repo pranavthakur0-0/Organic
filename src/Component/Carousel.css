@@ -1,0 +1,211 @@
+
+.Carousel-card
+{
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+}
+
+.Carousel-card-container-one
+
+{
+    height: 100%;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Carousel-card-container-one-round-one
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    background-color: antiquewhite;
+
+}
+.Carousel-card-container-two
+
+{
+    height: 100%;
+    width: 75%;
+    background-color: #ffffff;
+}
+
+.Carousel-card-container-two-text
+{
+    height: 50%;
+    width: 100%;
+    padding: 120px 20px 10px 0px;
+    font-size: 17px;
+    font-weight: 300;
+    color: #443637;
+}
+
+.Carousel-card-container-two-name
+{
+    height: 7%;
+    width: 100%;
+    padding: 2px 20px 2px 0px;
+    background-color: #ffffff;
+    font-size: 17px;
+    font-weight: 400;
+    color: #1D4D4F;
+}
+
+.Carousel-card-container-two-postion
+{
+    height: 7%;
+    width: 100%;
+    padding: 2px 20px 2px 0px;
+    background-color: #ffffff;
+    font-size: 17px;
+    font-weight: 300;
+    color: #7FB800;
+}
+
+
+
+
+.rec-dot_active 
+{
+    background-color: #7FB800 !important;
+    box-shadow: 0 0 1px 3px var(--blue) !important;
+}
+.rec-dot:focus,
+.rec-dot:hover {
+    box-shadow: 0 0 1px 3px #7FB800 !important;
+}
+.rec-dot_active:focus,
+
+.rec-dot_active:hover {
+    background-color: #7FB800 !important;
+    box-shadow: 0 0 1px 3px var(--blue) !important;
+}
+
+.rec-arrow {
+    
+    background-color: white !important;
+    transition: all 0.3s ease;
+    font-size: 1.1rem !important;
+    color: #1D4D4F !important;
+    width: 1.7rem !important;
+    height: 1.7rem !important;
+    min-width: 1.7rem !important;
+    line-height: 1.7rem !important;
+   
+}
+
+.rec-arrow:hover 
+{
+    background-color: #7FB800 !important;
+    color: white !important;
+    transform: scale(1.2);
+    box-shadow: 0 0 1px 3px var(--blue) !important;
+
+}
+
+@media (max-width: 480px)
+{
+
+    
+    .Carousel-card
+{
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.Carousel-card-container-two-text
+{
+    height: 15vh;
+    text-align: justify;
+    width: 100%;
+    padding: 2vh 5px 5px 5px !important;
+    font-size: 0.7rem;
+    font-weight: 300;
+    color: #443637;
+}
+.Carousel-card
+{
+    height: 50vh;
+}
+
+.Carousel-card-container-one
+
+{
+    height: 40%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px 10px 0px ;
+}
+
+.Carousel-card-container-one-round-one
+{
+    height: 18vh;
+    width: 18vh;
+    border-radius: 100%;
+    background-color: antiquewhite;
+
+}
+.Carousel-card-container-two
+
+{
+    height: auto;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.Carousel-card-container-two-name
+{
+    height: auto;
+    width: 100%;
+    padding: 2px 20px 2px 0px;
+    background-color: #ffffff;
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: #1D4D4F;
+}
+
+.Carousel-card-container-two-postion
+{
+    height: auto;
+    width: 100%;
+    padding: 2px 20px 2px 0px;
+    background-color: #ffffff;
+    font-size: 0.7rem;
+    font-weight: 300;
+    color: #7FB800;
+}
+
+.rec-dot
+{
+    display: none;
+}
+.home-main-container-main-testimonial
+{
+    height: auto !important;
+}
+
+
+.rec-arrow {
+    
+    background-color: white !important;
+    transition: all 0.3s ease;
+    font-size: 1.1rem !important;
+    color: #1D4D4F !important;
+    width: 1.3rem !important;
+    height: 1.3rem !important;
+    min-width: 1.3rem !important;
+    line-height: 1.3rem !important;
+   
+}
+
+}

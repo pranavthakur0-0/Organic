@@ -1,0 +1,1250 @@
+*{
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+}
+.main-home-display
+{
+    display: flex;
+    height: 90vh;
+    width: 100%;
+    background-image: url(./images/ORganic.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.home-display-one
+{
+    height: 89vh;
+    width: 50%;
+    padding: 10% 1% 1% 5%;
+
+}
+
+
+.home-left-one
+{
+    height: 51%;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+}
+.home-left-two
+{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+}
+
+.home-left-one span
+{
+    margin-left: 25px;
+    height: 100%;
+    width: 100%;
+    font-size: 5vw;
+    font-weight:bolder;
+    color: #1C4D4E;   
+    padding-bottom: 10px;
+}
+
+
+.home-left-two span
+{
+    margin-left: 30px;
+    height: auto;
+    width: 100%;
+    font-size: 1vw;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+    color: #443637;
+}
+
+
+
+.home-display-two
+{
+    padding: 50px 0px 0px 0px;
+    height: 89vh;
+    width: 50%;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home-heart-vegetables
+{
+    background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/2418583.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    height: 85%;
+    width: 100%;
+}
+
+
+.section-home-element
+{
+        width: 100%;
+        height: 28vh;
+        display: flex;
+        justify-content:space-around;
+        padding: 0px 200px 0px 200px;
+}
+
+.section-home-one-first
+{
+    border-radius: 3%;
+    box-shadow: 0 3px 10px rgba(157, 167, 136, 0.3);
+    height: 65%;
+    width: 25%;
+    background-color:   white;
+    display: flex;
+    
+}
+.section-home-one-second
+{
+    border-radius: 3%;
+    box-shadow: 0 3px 10px rgba(157, 167, 136, 0.3);
+    height: 65%;
+    width: 25%;
+    background-color:   white;
+    display: flex;
+    
+}
+.section-home-one-third
+{
+    border-radius: 3%;
+    box-shadow: 0 3px 10px rgba(157, 167, 136, 0.3);
+    height: 65%;
+    width: 25%;
+    background-color: white;
+    display: flex;
+}
+
+
+.section-home-one-first .logo
+{
+    height: 50%;
+    width: 35%;
+    padding: auto;
+}
+
+
+.section-home-one-first .logo span
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+.section-home-one-second .logo span
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+.section-home-one-third .logo span
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+img
+{
+    height: 80%;
+    width: 60%;
+}
+
+
+.section-home-one-second .logo
+{
+    height: 50%;
+    width: 35%;
+}
+
+.section-home-one-third .logo
+{
+    height: 50%;
+    width: 35%;
+}
+
+.section-home-one-first .text
+{
+    height: 100%;
+    width: 60%;
+    flex-direction: column;
+    
+}
+
+.section-home-one-second .text
+{
+    height: 100%;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+}
+.section-home-one-third .text
+{
+    height: 100%;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    display: flex;
+}
+
+.section-home-one-first .text .heading
+{
+    width: 100%;
+    height: 50%;
+    font-size: 20px;
+    padding-top: 20px;
+    color: #1C4D4E; 
+}
+
+.section-home-one-first .text .text
+{
+    width: 100%;
+    height: 50%;
+    color: #443637;
+    font-weight: 400;
+    font-size: 15px;
+}
+.section-home-one-second .text .heading
+{
+    width: 100%;
+    height: 50%;
+    padding-top: 20px;
+    font-size: 20px;
+    color: #1C4D4E; 
+    
+}
+
+.section-home-one-second .text .text
+{
+    width: 100%;
+    height: 50%;
+    font-weight: 400; 
+    color: #443637;
+    font-weight: 400;
+    font-size: 15px;
+    
+}
+.section-home-one-third .text .heading
+{
+    width: 100%;
+    height: 50%;  
+    font-size: 20px;
+    padding-top: 20px;
+    color: #1C4D4E; 
+}
+
+.section-home-one-third .text .text
+{
+    width: 100%;
+    height: 50%;
+    color: #443637;
+    font-weight: 400;
+    font-size: 15px;
+    
+}
+
+.home-about
+{
+    width: 100%;
+    height: 8vh;
+    color: #7FB700;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+}
+.home-about-text
+{
+    width: 100%;
+    height: 20vh;
+    padding: 10px 200px 10px 200px;
+    color: #1C4D4E;   
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.section-info
+{
+    width: 100%;
+    height: 88vh;
+    display: flex;
+}
+
+.section-info-one
+{
+    width: 20%;
+    height: 100%;
+}
+.section-info-two
+{
+    width: 30%;
+    height: 100%;
+    padding: 20px 20px 20px 20px;
+}
+.section-info-three
+{
+    width: 23%;
+    height: 100%;
+    padding: 20px 0px 20px 10px;
+}
+.section-info-four
+{
+    width: 20%;
+    height: 100%; 
+}
+.section-info-two-partone
+{
+    width: 100%;
+    height: 20%;
+    font-size: 25px;
+    padding: 20px;
+    padding-left: 10px;
+    font-weight: 600;
+    display: flex;
+    align-items: flex-end;
+    color: #1C4D4E;
+
+}
+.section-info-two-parttwo
+{
+    width: 100%;
+    height: 20%;
+    color: #443637;
+    font-weight: 300;
+    padding: 10px;
+
+}
+.section-info-two-partthree
+{
+    width: 100%;
+    height: 20%;
+    padding :10px;
+}
+.section-info-two-partfour
+{
+    width: 100%;
+    height: 20%;
+    padding :10px;
+}
+.section-info-two-partfive
+{
+    width: 100%;
+    height: 20%;
+    padding : 10px;
+
+}
+
+.partthree-logo-text
+{
+    width: 100%;
+    height: 100%;  
+    display: flex;
+}
+.partthree-logo-text .logo
+{
+    width: 25%;
+    height: 60%;
+    background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/cropped-Farmino_logo-1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.partthree-logo-text .text
+{
+    width: 100%;
+    height: 100%;
+}
+.partthree-logo-text .text-heading
+{
+    width: 100%;
+    height: 35%;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    color: #1C4D4E;
+    padding-left: 10px;
+}
+
+.partthree-logo-text .text-text
+{
+    width: 100%;
+    height: 50%;
+    color: #1C4D4E;
+    padding-left: 10px;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.section-card
+{
+    width: 100%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.section-info-card
+{
+    width: 90%;
+    height: 80%;
+    border-radius: 100px;
+    background: rgb(127,183,0);
+    background: linear-gradient(0deg, rgba(127,183,0,1) 0%, rgba(19,155,11,1) 100%);
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+}
+.section-card-logo
+{
+    width: 40%;
+    height: 50%;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.section-card-logo-circle
+{
+    width: 60%;
+    height: 60%;
+    display: flex;
+    justify-self: center;
+    align-content: center;
+    background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/orange.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.section-info-heading
+{
+    height: 20%;
+    width: 100%;
+    padding: 50px 20px 0px 20px;
+    color: white;
+    font-weight: 300;
+    font-size: 30px;
+    text-align: center;
+}
+.section-info-text
+{
+    height: 30%;
+    width: 100%;
+    padding: 0px 50px 0px 50px;
+    color: white;
+    font-weight: 40;
+    font-size: 20px;
+    text-align: center;
+}
+
+.section-info-card2
+{
+    position: relative;
+    top: -10px;
+    width: 90%;
+    height: 85%;
+    border-radius: 100px;
+    background-color: white;
+    box-shadow: 0 3px 10px rgba(157, 167, 136, 0.3);
+}
+
+.section-card-logo2
+{
+    width: 45%;
+    height: 40%;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+.section-info-heading2
+{
+    height: 15%;
+    width: 100%;
+    padding: 40px 20px 0px 20px;
+    color:#1C4D4E;
+    font-weight: 300;
+    font-size: 30px;
+    text-align: center;
+}
+
+.section-info-card3
+{
+    position: relative;
+    top: 30px;
+    width: 90%;
+    height: 85%;
+    border-radius: 100px;
+    background-color: white;
+    box-shadow: 0 3px 10px rgba(157, 167, 136, 0.3);
+}
+
+.section-card-logo3
+{
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(127,183,0);
+    background: linear-gradient(0deg, rgba(127,183,0,1) 0%, rgba(19,155,11,1) 100%);
+
+}
+
+.section-info-text3
+{
+    height: 30%;
+    width: 100%;
+    padding: 0px 50px 0px 50px;
+    color: white;
+    font-weight: 40;
+    color:  #443637;
+    font-size: 18px;
+    text-align: center;
+}
+
+.section-info-heading3
+{
+    height: 15%;
+    width: 100%;
+    padding: 40px 20px 0px 20px;
+    color:#1C4D4E;
+    font-weight: 300;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+
+.section-card-logo-circle2
+{
+    width: 60%;
+    height: 60%;
+    display: flex;
+    justify-self: center;
+    align-content: center;
+    background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/salad.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.section-card-logo-circle3
+{
+    width: 60%;
+    height: 60%;
+    display: flex;
+    justify-self: center;
+    align-content: center;
+    background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/08/meat.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.section-card2
+{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.transparent-backgound-organic
+{
+    height: 90vh;
+    width: 100%;
+    background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/2873067.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.organic-farming
+
+{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 10% 10% 10% 10%;
+    justify-content: space-around;
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+.organic-text
+{
+    font-size: 10rem;
+    font-weight: 600;
+    color: #7FB700;
+    z-index:100;
+    text-shadow: 0px -6px 20px rgba(148,148,148,0.83);
+    text-align: center;
+}
+
+.farming-text
+{
+    font-size: 10rem;
+    font-weight: 600;
+    color: orange;
+    z-index:100;
+    text-shadow: 0px -6px 20px rgba(148,148,148,0.83);
+    text-align: center;
+}
+
+.Swiper-container
+{
+    height: 100vh;
+}
+
+
+.section-home-main-container-why-us
+{
+    height: 80vh;
+    width: 100%;
+}
+
+.section-home-main-container-why-us-heading
+{
+    color: #1C4D4E;
+    text-align: center;
+    font-size: 60px;
+    height: 20vh;
+    width: 100%;
+    font-weight: 600;
+}
+
+.section-home-main-container-why-us-space
+{
+    height: 10vh;
+    width: 100%;
+}
+
+.section-home-main-container-why-us-text
+{
+    height: 20vh;
+    padding: 0px 200px 0px 200px;
+    color: #443637;
+    font-weight: 300;
+    width: 100%;
+    font-size: 17px;
+}
+
+
+.home-main-container-main-testimonial
+{
+    height: 100vh;
+    width: 100%;
+    padding: 0px 50px 0px 50px;
+}
+
+.home-main-container-main-our-testimonial
+{
+    padding: 10px 200px 0px 200px;
+    height: 8vh;
+    width: 100%;
+    text-align: center;
+    color: #7FB700;
+    font-size: 20px;
+}
+
+.home-main-container-main-testimonial-heading
+{
+    height: 10vh;
+    width: 100%;
+    color: #1C4D4E;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
+    padding-bottom: 0px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 480px)
+{
+    .main-home-display
+{
+    display: flex;
+    flex-direction: column-reverse;
+    height: 90vh;
+    width: 100%;
+    background-image: url(./images/ORganic.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.home-heart-vegetables
+{
+    height: 90% !important;
+    max-width: 90% !important;
+    background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/2418583.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+
+.home-display-two
+{
+    height: 50%;
+    width: 100%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+
+.home-display-one
+{
+    height: 50%;
+    width: 100%;
+    padding: 10% 5% 1% 5%;
+
+}
+
+.home-left-one
+{
+    height: 41%;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+}
+
+.home-left-one span
+{
+    margin-left: 0px;
+    height: 70%;
+    width: 100%;
+    font-size: 9vw;
+    font-weight:bolder;
+    color: #1C4D4E;   
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.home-left-two
+{
+    height: 30%;
+    width: 100%;
+    padding: 10px 30px 10px 30px;
+    display: flex;
+    align-items: center;
+}
+
+.home-left-two span
+{
+    margin-left: 0px;
+    height: auto;
+    width: 100%;
+    font-size: 3.3vw;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+    color: #443637;
+    text-align: justify;
+}
+
+.home-about-text
+{
+    width: 100%;
+    padding: 0px;
+    height: auto;
+    color: #1C4D4E;   
+    display: flex;
+    justify-content: center;
+    font-size: 6vw;
+    text-align: center;
+    font-weight: 600;
+}
+
+.home-about-main
+{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.section-info
+{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 70px;
+}
+
+
+
+.section-info-one
+{
+    height: 0%;
+}
+
+
+.section-info-two
+{
+    width: 100%;
+    height: 90vh;
+    padding: 20px 20px 20px 20px;
+}
+
+.section-info-three
+{
+    display: flex;
+    width: 70vw;
+    height: 70vh;
+    padding: 20px 0px 20px 10px;
+    justify-content: center;
+}
+
+.section-info-card3
+{
+    position: flex;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    border-radius: 100px;
+    background-color: white;
+    box-shadow: rgb(0 0 0 / 35%) 0px 3px 10px;
+}
+
+.section-info-four
+{
+    display: flex;
+    width: 70vw;
+    height: 70vh;
+    padding: 20px 0px 20px 10px;
+    justify-content: center;
+}
+.section-info-card2
+{
+    position:unset;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    border-radius: 100px;
+    background-color: white;
+    box-shadow: rgb(0 0 0 / 35%) 0px 3px 10px;
+}
+.section-info-card
+{
+    width: 100%;
+    height: 100%;
+    border-radius: 100px;
+    background: rgb(127,183,0);
+    background: linear-gradient(0deg, rgba(127,183,0,1) 0%, rgba(19,155,11,1) 100%);
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+}
+
+
+
+.organic-text
+{
+    font-size: 3.5rem;
+    font-weight: 600;
+    color: #7FB700;
+    z-index:100;
+    text-shadow: 0px -6px 20px rgba(148,148,148,0.83);
+    text-align: center;
+}
+
+.farming-text
+{
+    font-size: 3.5rem;
+    font-weight: 600;
+    color: orange;
+    z-index:100;
+    text-shadow: 0px -6px 20px rgba(148,148,148,0.83);
+    text-align: center;
+}
+
+.organic-farming
+
+{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 10% 10% 10% 10%;
+    justify-content: space-around;
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+
+.transparent-backgound-organic
+{
+    height: 30vh;
+    width: 100%;
+    background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/2873067.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.section-home-main-container-why-us-heading
+{
+    color: #1C4D4E;
+    text-align: center;
+    font-size: 11vw;
+    height: 10vh;
+    width: 100%;
+    font-weight: 600;
+}
+
+.section-home-main-container-why-us-space
+{
+    height: 11vh;
+    width: 100%;
+}
+
+.section-info-two-partone
+{
+    width: 100%;
+    height: 15%;
+    font-size: 1.2rem;
+    padding: 10px 0px 20px 0px;
+    font-weight: 600;
+    display: flex;
+    align-items: flex-end;
+    color: #1C4D4E;
+
+}
+.section-info-two-parttwo
+{
+    width: 100%;
+    height: 20%;
+    color: #443637;
+    font-weight: 300;
+    padding: 10px;
+    font-size: 0.9rem;
+    text-align: justify;
+
+}
+.section-home-element
+{
+        width: 100%;
+        height: 60vh;
+        display: flex;
+        align-items: center;
+        justify-content:space-around;
+        padding: 0px 10px 0px 10px;
+        flex-direction: column;
+}
+
+
+.section-home-main-container-why-us
+{
+    height: auto;
+    width: 100%;
+}
+.section-home-main-container-why-us-text
+{
+    height: 35vh;
+    padding: 50px 25px 50px 25px;
+    color: #443637;
+    font-weight: 300;
+    width: 100%;
+    font-size: 1rem;
+    text-align: justify;
+}
+.home-main-container-main-our-testimonial
+{
+    padding: 10px 10px 0px 10px;
+    height: 12vh;
+    width: 100%;
+    text-align: center;
+    color: #7FB700;
+    font-size: 1.4rem;
+
+}
+
+.section-home-one-first
+{
+    border-radius: 3%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 3px 10px;
+    height: 20%;
+    width: 90%;
+    background-color:   white;
+    display: flex;
+}
+.section-home-one-second
+{
+    border-radius: 3%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 3px 10px;
+    height: 20%;
+    width: 90%;
+    background-color:   white;
+    display: flex;
+}
+.section-home-one-third
+{
+    border-radius: 3%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 3px 10px;
+    height: 20%;
+    width: 90%;
+    background-color:   white;
+    display: flex;
+}
+
+
+.home-main-container-main-testimonial
+{
+    height: 100vh;
+    width: 100%;
+    padding: 0px 3px 0px 3px;
+    display: flex;
+    flex-direction: column;
+}
+.section-home-one-first .logo
+{
+    height: 100%;
+    width: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-home-one-second .logo
+{
+    height: 100%;
+    width: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-home-one-third .logo
+{
+    height: 100%;
+    width: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-home-one-first .logo span
+{
+    display: flex;
+    align-self: center;
+    height: 80%;
+    width: 80%;
+}
+
+.section-home-one-second .logo span
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80%;
+    width: 80%;
+}
+
+.section-home-one-third .logo span
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80%;
+    width: 80%;
+}
+
+
+
+.section-home-one-first .text .heading
+{
+    width: 100%;
+    height: 50%;
+    font-size: 17px;
+    padding-top: 10px;
+    color: #1C4D4E; 
+}
+
+.section-home-one-first .text .text
+{
+    width: 100%;
+    height: 50%;
+    color: #443637;
+    font-weight: 400;
+    font-size: 12px;
+}
+.section-home-one-second .text .heading
+{
+    width: 100%;
+    height: 50%;
+    padding-top: 10px;
+    font-size: 17px;
+    color: #1C4D4E; 
+    
+}
+
+.section-home-one-second .text .text
+{
+    width: 100%;
+    height: 50%;
+    font-weight: 400; 
+    color: #443637;
+    font-weight: 400;
+    font-size: 12px;
+    
+}
+.section-home-one-third .text .heading
+{
+    width: 100%;
+    height: 50%;  
+    font-size: 17px;
+    padding-top: 10px;
+    color: #1C4D4E; 
+}
+
+.section-home-one-third .text .text
+{
+    width: 100%;
+    height: 50%;
+    color: #443637;
+    font-weight: 400;
+    font-size: 12px;
+    
+}
+
+.section-info-two-partthree
+{
+    width: 100%;
+    height: 18vh;
+    padding :10px;
+}
+.partthree-logo-text .logo
+{
+   margin: 10px 0px 0px 0px;
+    max-width: auto;
+    height: 50%;
+    background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/cropped-Farmino_logo-1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+.section-info-two-partfour
+{
+    width: 100%;
+    height: 18vh;
+    padding :10px;
+}
+.section-info-two-partfive
+{
+    width: 100%;
+    height: 18vh;
+    padding :10px;
+
+}
+.partthree-logo-text .text-heading
+{
+    width: 100%;
+    height: 35%;
+    font-size: 4.5vw;
+    display: flex;
+    align-items: center;
+    color: #1C4D4E;
+    padding-left: 10px;
+}
+
+.partthree-logo-text .text-text
+{
+    width: 100%;
+    height: 50%;
+    color: #1C4D4E;
+    padding-left: 10px;
+    font-weight: 300;
+    font-size: 3.5vw;
+}
+
+.section-info-heading
+{
+    height: 20%;
+    width: 100%;
+    padding: 30px 20px 20px 20px;
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+    text-align: center;
+}
+
+.section-info-text
+{
+    height: 30%;
+    width: 100%;
+    padding: 0px 50px 0px 50px;
+    color: white;
+    font-weight: 40;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.section-card2
+{
+    width: 100%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.section-info-heading2
+{
+    height: 20%;
+    width: 100%;
+    padding: 20px 20px 0px 20px;
+    color:#1C4D4E;
+    font-weight: 300;
+    font-size: 30px;
+    text-align: center;
+}
+
+.section-info-text3
+{
+    height: 30%;
+    width: 100%;
+    padding: 3px 50px 0px 50px;
+    color: white;
+    font-weight: 300;
+    color:  #443637;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.section-info-heading3
+{
+    height: 20%;
+    width: 100%;
+    padding: 30px 20px 0px 20px;
+    color:#1C4D4E;
+    font-weight: 300;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+}

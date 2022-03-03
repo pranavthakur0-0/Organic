@@ -1,0 +1,1008 @@
+
+.about-main-container 
+{
+    height: 60vh;
+    width: 100%;
+    padding: 180px 0px 0px 180px;
+    background-position-y: -200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../Component/images/about-backgound.webp);
+}
+
+.about-turegenic-heading
+{
+    height: 100px;
+    width: 100%;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+    font-size: 90px;
+    color: #1C4D4E; 
+}
+
+.about-container-main-two
+{
+    height: 80vh;
+    width: 100%;
+    padding: 20px 50px 20px 100px;
+}
+
+.about-container-box-one
+{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-container-box-one-part-text
+{
+    height: 100%;
+    width: 50%;
+}
+
+
+.about-container-box-one-part-text-space
+{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    font-size: 30px;
+    color: #7FB704;
+    font-weight: 300;
+}
+
+
+
+.about-container-box-one-part-image
+{
+height: 100%;
+width: 45%;
+display: flex;
+justify-content: center;
+align-self: center;
+}
+
+.about-container-box-one-part-image-flex
+{
+height: 65%;
+width: 99%;
+background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/08/4005938.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
+align-self: center;
+}
+
+.about-container-box-one-part-text-heading
+{
+
+font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+font-size: 70px;
+align-items: center;
+font-weight: 600;
+color: #1C4D4E; 
+}
+
+.about-container-box-one-part-text-heading-text
+{
+padding: 70px 50px 0px 0px;
+}
+
+.about-container-main-count
+{
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-container-main-count-one
+{
+    height: 15vh;
+    width: 15vh;
+    background-image: url(../Component/images/countdown-backgound.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.about-container-main-count-two
+{
+    height: 15vh;
+    width: 15vh;
+    background-image: url(../Component/images/countdown-backgound.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.about-container-main-count-three
+{
+    height: 15vh;
+    width: 15vh;
+    background-image: url(../Component/images/countdown-backgound.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.about-container-main-count-four
+{
+    height: 15vh;
+    width: 15vh;
+    background-image: url(../Component/images/countdown-backgound.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.about-container-main-count-one-number
+{
+    display: block;
+    position: relative;
+    top: 30px;
+    left: 50px;
+    font-size: 60px;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+}
+
+.about-container-main-count-two-number
+{
+    display: block;
+    position: relative;
+    top: 30px;
+    left: 50px;
+    font-size: 60px;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+}
+
+.about-container-main-count-three-number
+{
+    display: block;
+    position: relative;
+    top: 30px;
+    left: 50px;
+    font-size: 60px;
+    height: 100px;
+    width: 100%;
+}
+
+.about-container-main-count-four-number
+{
+    margin: 0px;
+    display: block;
+    position: relative;
+    top: 30px;
+    left: 50px;
+    font-size: 60px;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+}
+
+.about-container-our-team
+{
+    height: 95vh;
+    width: 100%;
+    padding: 0px 100px 0px 100px;
+    background-size: contain;
+    background-position-y: 90px;
+    background-repeat: no-repeat;
+}
+
+.about-countup-number-text-one
+{
+    font-size: 25px;
+    position: relative;
+    left: -50px;
+    top: 10px;
+    text-align: center;
+}
+
+
+
+.about-container-our-team-text-header
+{
+    height: 150px;
+    width: 100%;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+    font-size: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #1C4D4E;
+}
+
+.about-team-space
+{
+    height: 10px;
+    width: 100%;
+}
+
+
+
+.about-our-team-head-container
+{
+    height: 80vh;
+    width: 100%;
+}
+
+.about-our-team-head-container-one
+{
+    height: 85vh;
+    width: 100%;
+    padding: 10px 0px 70px 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-container-profile-card-temp
+{
+    height: 55vh;
+    width: 21%;
+    display: flex;
+    align-items: center;
+    transition: 0.5s;
+}
+
+.about-container-profile-card-temp:hover
+{
+    transform: scale(1.1);
+}
+
+.about-container-profile-card-inner
+{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: rgba(119, 119, 119, 0.25) 0px 15px 20px -1px, rgba(56, 56, 56, 0.3) 0px 13px 17px -3px;
+}
+
+.about-container-profile-card-inner:hover
+{
+    height: 90%;
+    width: 100%;
+    border-radius: 15px;
+    background-color: #aeff0049;
+    box-shadow: rgba(119, 119, 119, 0.25) 0px 15px 20px -1px, rgba(56, 56, 56, 0.3) 0px 13px 17px -3px;
+}
+.about-container-profile-card-inner-pic
+{
+    height: 60%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.about-container-profile-card-inner-pic-text
+{
+    height: 30%;
+    width: 100%;
+}
+
+.about-container-profile-card-inner-pic-round
+{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    background: linear-gradient( 0deg , rgba(127,183,0,1) 0%, rgba(19,155,11,1) 100%);
+    transition: 0.7s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-container-profile-card-inner-pic-round
+{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    background: linear-gradient( 0deg , rgba(127,183,0,1) 0%, rgba(19,155,11,1) 100%);
+    transition: 0.7s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-container-profile-card-inner-pic-round-img-one
+{
+    height: 90%;
+    width: 90%;
+    border-radius: 100%;
+    background-color: white;
+}
+.about-container-profile-card-inner-pic-round-img-two
+{
+    height: 90%;
+    width: 90%;
+    border-radius: 100%;
+    background-color: white;
+}
+.about-container-profile-card-inner-pic-round-img-three
+{
+    height: 90%;
+    width: 90%;
+    border-radius: 100%;
+    background-color: white;
+}
+
+
+.about-container-profile-card-inner-pic-round-img-four
+{
+    height: 90%;
+    width: 90%;
+    border-radius: 100%;
+    background-color: white;
+}
+
+.profile-card-inner-name
+{
+    padding: 15px 20px 0px 20px;
+    height: 50px;
+    font-size: 20px ;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+    text-align: center;
+    color:#1C4D4E;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.profile-card-inner-postion
+{
+    padding: 5px 20px 10px 20px;
+    height: 35px;
+    font-size: 17px ;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+    text-align: center;
+    color: #979797;
+}
+
+.about-container-profile-card-inner-pic-text .icon
+{
+    color: #1C4D4E;
+    font-size: 25px;
+    transition: 0.5s;
+}
+
+
+.about-container-profile-card-inner-pic-text .icon:hover
+{
+    transform: rotate(30deg);
+}
+.profile-card-inner-social-media
+{
+    padding: 0px 60px 0px 60px;
+    height: 35px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.about-backagound-team
+{
+    z-index: -10;
+    text-align: right;
+    width: 105%;
+    height: 250px;
+    font-size: 240px;
+    position: relative;
+    top: -270px;
+    color: #adadad;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+    font-weight: 600;
+    opacity: 0.2;
+    letter-spacing: -5px;
+}
+
+
+
+.about-our-values
+{
+    height: 125vh;
+    width: 100%;
+    padding: 50px 100px 50px 100px ;
+    background-image:url(//farmino.elipso.site/wp-content/uploads/sites/8/2020/07/549532-PJZU9B-982.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.about-our-values-heading
+{
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+    font-size: 70px;
+    height: 16%;
+    width: 100%;
+    text-align: center;
+    color:#1C4D4E;
+}
+
+.about-our-values-main-container
+{
+    height: 88%;
+    width: 100%;
+    display: flex;
+}
+
+.about-our-values-main-container-pic
+{
+    height: 80vh;
+    width: 50%;
+    background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/healthy-food-P9M7VWX-1-scaled.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -130px;
+}
+
+.about-our-values-main-container-text
+{
+    position: relative;
+    top: 100px;
+    left: -100px;
+    height: 85vh;
+    width: 55%;
+    padding: 90px 120px 40px 120px;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(119, 119, 119, 0.25) 0px 6px 12px -2px, rgba(56, 56, 56, 0.3) 0px 3px 7px -3px;
+}
+
+.about-our-values-main-container-text-heading
+{
+    
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+    height: 60px;
+    font-size: 30px;
+    width: 100%;
+    color: #1C4D4E;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+}
+
+.about-our-values-main-container-text-heading-text
+{
+    font-size: 17px;
+    font-weight: 300;
+    padding-top: 10px;
+}
+
+.about-main-container-our-mission
+{
+    z-index: -1;
+    height: 90vh;
+    padding: 50px 100px 100px 100px;
+    width: 100%;
+}
+
+.about-main-container-our-mission-heading
+{
+    height: 100px;
+    width: 100%;
+    text-align:center;
+    color: #1C4D4E;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+    font-size: 70px;
+}
+
+.about-main-container-our-mission-text-info
+{
+    height: 100%;
+    width: 100%;
+}
+
+.about-main-container-our-mission-text
+{
+    width: 50%;
+    padding: 50px 0px 0px 100px;
+    display: flex;
+    font-weight: 300;
+    color: #443637;
+}
+
+
+
+.about-main-container-our-mission-backgound-img
+{
+    background-image: url(../Component/images/seed-our-mission.png);
+    background-repeat:no-repeat;
+    background-position: right;
+    background-position-y: 170px;
+}
+
+.ciricle-about
+{
+    height: 100px;
+    width: 100px;
+    padding: 10px 10px 10px 10px;
+}
+
+.about-circle-round
+{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    background: linear-gradient( 0deg, rgba(127,183,0,1) 0%, rgba(19,155,11,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-circle-round-white
+{
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    background-color: white;
+}
+.count
+{
+    color: #1C4D4E;
+    height: 100%;
+    width: 100%;
+    font-size: 4vw;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 480px)
+{
+
+.about-main-container 
+{
+    height: 27vh;
+    width: 100%;
+    padding: 0px 0px 0px 0px;
+    background-position-y: 0px;
+    background-size: cover;
+    background-position-y: -50px;
+    background-repeat: no-repeat;
+    background-image: url(../Component/images/about-backgound.webp);
+}
+
+.about-turegenic-heading
+{
+    padding: 20vw 0px 0px 3vw;
+    height: 100%;
+    width: 100%;
+    font-size: 10vw;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+    color: #1C4D4E; 
+}
+
+.about-container-box-one-part-text
+{
+    height: auto;
+    width: 100%;
+}
+
+.about-container-main-two
+{
+    height: auto;
+    width: 100%;
+    padding: 20px 0px 20px 0px;
+}
+.about-container-box-one
+{
+    height: 70vh;
+    width: 100vw;
+    padding: 0px 10px 0px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.about-container-box-one-part-text-heading
+{
+width: 100% !important;
+font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+font-size: 2rem;
+align-items: center;
+font-weight: 600;
+color: #1C4D4E; 
+}
+.about-container-box-one-part-text-space
+{
+    height: 30px;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    font-size: 1rem;
+    color: #7FB704;
+    font-weight: 300;
+}
+.about-container-box-one-part-text-heading-text
+{
+    width: 100%;
+    padding: 20px 10px 0px 10px;
+    font-size: 0.8rem ;
+    font-weight: 300;
+}
+
+.about-container-box-one-part-image
+{
+height: 30vh;
+width: 100%;
+display: flex;
+}
+
+.about-container-box-one-part-image-flex
+{
+height: 100%;
+width: 100%;
+background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/08/4005938.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.about-team-space
+{
+    height: 5vh;
+    width: 100%;
+}
+
+.about-container-our-team
+{
+    height: 270vh;
+    width: 100%;
+    padding: 0px 10px 0px 10px;
+    background-image: none;
+    background-size: contain;
+    background-position-y: 0px;
+    background-repeat: no-repeat;
+}
+.about-our-team-head-container-one
+{
+    height: 250vh;
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.about-container-our-team-text-header
+{
+    height: 100px;
+    width: 100%;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+    font-size: 12vw;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #1C4D4E;
+}
+.about-container-profile-card-temp
+{
+    height: 70vh;
+    width: 80%;
+    display: flex;
+    align-self: center;
+    transition: 0.5s;
+}
+
+
+.about-container-profile-card-inner
+{
+    height: 90%;
+    width: 100%;
+    background-color: #aeff0049;
+    border-radius: 15px;
+    box-shadow: rgba(119, 119, 119, 0.25) 0px 6px 12px -2px, rgba(56, 56, 56, 0.3) 0px 3px 7px -3px;
+}
+.about-our-team-head-container
+{
+    height: 190vh;
+    width: 100%;
+}
+
+.about-backagound-team
+{
+    z-index: -10;
+    font-size: 0px;
+}
+
+.about-container-main-count
+{
+    height: 70vh;
+    width: 100% !important;
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+
+.count
+{
+    color: #1C4D4E;
+    height: 100%;
+    width: 100%;
+    font-size: 13vw;
+    text-align: center;
+}
+
+
+.about-container-main-count-one
+{
+    height: 10vh;
+    width: 100%;
+    padding: 10px;
+    background-image: none;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.about-countup-number-text-one
+{
+    color: #443737;
+    font-size: 5vw;
+    width: 100%;
+    letter-spacing: -1px;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    text-align: center;
+    font-weight: 300;
+}
+
+.about-container-main-count-one-number
+{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    top: 0px;
+    left: 0px;
+    font-size: 60px;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+}
+
+
+.about-container-main-count-two
+{
+    height: 10vh;
+    width: 100%;
+    background-image: none;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+
+.about-container-main-count-two-number
+{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    top: 0px;
+    left: 0px;
+    font-size: 60px;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+}
+
+
+
+
+.about-container-main-count-two
+{
+    height: 10vh;
+    width: 100%;
+    background-image: none;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+
+.about-container-main-count-two-number
+{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    top: 0px;
+    left: 0px;
+    font-size: 60px;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+}
+
+
+.about-container-main-count-three
+{
+    height: 10vh;
+    width: 100%;
+    background-image: none;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+
+.about-container-main-count-three-number
+{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    top: 0px;
+    left: 0px;
+    font-size: 60px;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+}
+
+
+
+.about-container-main-count-four
+{
+    height: 10vh;
+    width: 100%;
+    background-image: none;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+
+.about-container-main-count-four-number
+{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    top: 0px;
+    left: 0px;
+    font-size: 60px;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+}
+
+
+.about-our-values
+{
+    height: auto;
+    width: 100%;
+    padding: 10px 10px 10px 10px ;
+    background-image:url(//farmino.elipso.site/wp-content/uploads/sites/8/2020/07/549532-PJZU9B-982.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 10px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.about-our-values-main-container
+{
+    height: 150vh;
+    width: 100%;
+    display: flex;
+    padding: 10px 0px 10px 0px;
+    flex-direction: column-reverse;
+    align-items: flex-start;
+    justify-content: space-around;
+    align-self: flex-end;
+}
+.about-our-values-main-container-pic
+{
+    max-height: auto;
+    width: 100%;
+    background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/healthy-food-P9M7VWX-1-scaled.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y:  0px;
+}
+.about-our-values-main-container-text
+{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    height: 62vh;
+    width: 100%;
+    padding: 0px 0px 40px 0px;
+    background-color: white;
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.about-our-values-heading
+{
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+    font-size: 12vw;
+    height: auto;
+    width: 100%;
+    text-align: center;
+    font-weight: 600;
+    color:#1C4D4E;
+}
+
+
+.about-our-values-main-container-text-heading
+{
+    
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+    height: 10vh;
+    font-size: 7vw;
+    padding: 10px 0px 0px 30px;
+    width: 100%;
+    color: #7FB704;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+}
+
+
+.about-our-values-main-container-text-heading-text
+{
+    padding: 10px 30px 20px 30px;
+    font-size: 0.8rem;
+    font-weight: 300;
+    padding-top: 20px;
+}
+
+
+.about-main-container-our-mission
+{
+    z-index: 0;
+    height: 75vh;
+    padding: 50px 10px 40px 10px;
+    width: 100%;
+}
+
+.about-main-container-our-mission-heading
+{
+    height: 10vh;
+    width: 100%;
+    text-align:center;
+    font-weight: 600;
+    color: #1C4D4E;
+    font-family: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+    font-size: 12vw;
+}
+
+.about-main-container-our-mission-text
+{
+    width: 100%;
+    padding: 30px 20px 0px 20px;
+    display: flex;
+    font-weight: 500;
+    color: #443637;
+    text-align: justify;
+    flex-direction: column;
+    font-size: 0.7rem;
+}
+.ciricle-about
+{
+    height: 30px;
+    width: 30px;
+    padding: 0px 0px 0px 0px;
+}
+
+
+
+.about-main-container-our-mission-backgound-img
+{
+    background-image: none;
+    background-repeat:no-repeat;
+    background-position: right;
+    background-position-y: 170px;
+}
+
+
+.about-circle-round
+{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    background: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-circle-round-white
+{
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    background: linear-gradient( 0deg, rgba(127,183,0,1) 0%, rgba(19,155,11,1) 100%);
+}
+
+}
