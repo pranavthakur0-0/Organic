@@ -249,6 +249,7 @@ textarea:focus::-webkit-input-placeholder
     line-height: 26px;
     font-size: 15px;
     font-family: 'myFont', Arial, Helvetica, sans-serif;
+    color: white;
     
 }
 .footer-contact-message::placeholder
