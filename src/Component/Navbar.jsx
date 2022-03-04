@@ -24,14 +24,6 @@ const show=()=>
     setbar(!isbar);
 }
 
-const call=()=>
-{
-
-    setCheck(!isCheck);
-    setActive(!isActive);
-    setbar(!isbar);
-
-}
 
     return(
         <>
@@ -46,9 +38,9 @@ const call=()=>
                 <div  className={isCheck ? "check-button-close" : "check-button-open"} onClick={show}>   </div >
                </div>
 
-        <div onClick={call} className={isActive ? "navbar-links" : "navbar-links-after"}>
+        <div className={isActive ? "navbar-links" : "navbar-links-after"}>
         
-            <NavLink exact activeClassName="active" to="/" className="navbar-items">Home <div className='navbar-hover-lines'onClick={call}/></NavLink>
+            <NavLink exact activeClassName="active" to="/" className="navbar-items">Home <div className='navbar-hover-lines'/></NavLink>
             <NavLink activeClassName="active" to="/about" className="navbar-items">About <div className='navbar-hover-lines'/></NavLink>
             <NavLink activeClassName="active" to="/gallary" className="navbar-items">Gallary <div className='navbar-hover-lines'/></NavLink>
             <NavLink activeClassName="active" to="/product" className="navbar-items">Product <div className='navbar-hover-lines'/></NavLink>

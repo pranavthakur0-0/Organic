@@ -74,7 +74,7 @@ function Gallary()
             <>
 
             <div className={model ? "model open"   : "model"}>
-                <img src={temp} alt="image" />
+                <img src={temp} alt="" />
                 <AiOutlineCloseCircle className="gallary-page-container-icon" onClick={()=>{setmodel(false)}} />
 
             </div>
@@ -99,7 +99,7 @@ function Gallary()
               {data.map((item, index)=>{
                   return (
                       <div className="gallary-page-container-image" key={index} onClick={()=>getimg(item.imgSrc)} >
-                          <img src={item.imgSrc} style={{width :"100%"}} alt="image" />
+                          <img src={item.imgSrc} style={{width :"100%"}} alt="" />
 
                       </div>
                   )
