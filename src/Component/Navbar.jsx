@@ -7,7 +7,6 @@ import Product from './Product';
 import Contact from './Contact';
 import './Navbar.css'
 import ScrollToTop from "../Component/linktotop"
-import { HiOutlineMenu } from "react-icons/hi";
 
 
 
