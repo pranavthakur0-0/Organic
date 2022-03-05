@@ -82,7 +82,7 @@ function Gallary()
 
             <div className="gallary-page-container-main-container">
                 <div className="gallary-page-container-main-container-text">
-                    Gallary
+                    Gallery
                 </div>
             </div>
 

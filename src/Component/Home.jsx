@@ -9,6 +9,7 @@ function Home() {
 
     AOS.init({duration:1050});
     AOS.refresh();
+    AOS.init({ once: true });
 
     return (
         <>
@@ -147,7 +148,7 @@ function Home() {
                         Truegenic
                     </div>
                     <div className="farming-text"  data-aos="fade-left" id='parent-animation'>
-                        Farming
+                        Seeds
                     </div>
                 </div>
             </div>
