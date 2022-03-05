@@ -18,7 +18,7 @@ function Home() {
                     <div className="home-left-one" data-aos="fade-up"  data-aos-duration="1000">
                         <span>Partner in your<br /> Prosperity</span>
                     </div>
-                    <div className="home-left-two">
+                    <div className="home-left-two" data-aos="fade-up"  data-aos-duration="1000">
                         <span>
                             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid laborum deleniti,
                             nisi unde dolore, porroiure soluta eligendi molestiae adipisci quia. Unde ab, dicta

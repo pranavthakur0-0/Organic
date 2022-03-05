@@ -1,7 +1,13 @@
 import "./Product.css"
 import { FaStar, FaStarHalf } from "react-icons/fa";
 import { GoQuote } from "react-icons/go";
+import AOS from 'aos';
 function Product() {
+
+    AOS.init({duration:1050});
+    AOS.refresh();
+    AOS.init({ once: true });
+
     return (
         <>
             <div className="main-container-product">
@@ -18,7 +24,7 @@ function Product() {
 
                 <hr />
             
-                <div className="main-container-section-product-left">
+                <div className="main-container-section-product-left" data-aos="fade-right" data-aos-delay="100">
                 <div className="main-container-section-product-left-cover-backgound">
                     <div className="main-container-section-product-left-cover">
                         <div className="main-container-section-product-left-image">
@@ -42,7 +48,7 @@ function Product() {
                 <hr />
   
 
-                <div className="main-container-section-product-right">
+                <div className="main-container-section-product-right"data-aos="fade-left" data-aos-delay="100">
                 <div className="main-container-section-product-right-cover-backgound">
                     <div className="main-container-section-product-right-cover">
                         <div className="main-container-section-product-right-image">
@@ -67,7 +73,7 @@ function Product() {
                 
                 <hr />
             
-            <div className="main-container-section-product-left">
+            <div className="main-container-section-product-left" data-aos="fade-right" data-aos-delay="100">
             <div className="main-container-section-product-left-cover-backgound">
                 <div className="main-container-section-product-left-cover">
                     <div className="main-container-section-product-left-image">
@@ -91,7 +97,7 @@ function Product() {
             <hr />
 
 
-            <div className="main-container-section-product-right">
+            <div className="main-container-section-product-right" data-aos="fade-left" data-aos-delay="100">
             <div className="main-container-section-product-right-cover-backgound">
                 <div className="main-container-section-product-right-cover">
                     <div className="main-container-section-product-right-image">
@@ -119,7 +125,7 @@ function Product() {
 
             <hr />
             
-            <div className="main-container-section-product-left">
+            <div className="main-container-section-product-left" data-aos="fade-right" data-aos-delay="100">
             <div className="main-container-section-product-left-cover-backgound">
                 <div className="main-container-section-product-left-cover">
                     <div className="main-container-section-product-left-image">
@@ -143,7 +149,7 @@ function Product() {
             <hr />
 
 
-            <div className="main-container-section-product-right">
+            <div className="main-container-section-product-right" data-aos="fade-left" data-aos-delay="100">
             <div className="main-container-section-product-right-cover-backgound">
                 <div className="main-container-section-product-right-cover">
                     <div className="main-container-section-product-right-image">
@@ -170,7 +176,7 @@ function Product() {
 
             <hr />
             
-            <div className="main-container-section-product-left">
+            <div className="main-container-section-product-left" data-aos="fade-right" data-aos-delay="100">
             <div className="main-container-section-product-left-cover-backgound">
                 <div className="main-container-section-product-left-cover">
                     <div className="main-container-section-product-left-image">
@@ -194,7 +200,7 @@ function Product() {
             <hr />
 
 
-            <div className="main-container-section-product-right">
+            <div className="main-container-section-product-right" data-aos="fade-left" data-aos-delay="100">
             <div className="main-container-section-product-right-cover-backgound">
                 <div className="main-container-section-product-right-cover">
                     <div className="main-container-section-product-right-image">

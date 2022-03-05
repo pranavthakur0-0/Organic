@@ -4,10 +4,15 @@ import Img2 from "../Component/images/gallary2.jpeg"
 import Img3 from "../Component/images/gallary3.jpeg"
 import Img4 from "../Component/images/gallary4.jpeg"
 import { AiOutlineCloseCircle } from "react-icons/ai";
-
+import AOS from 'aos';
 
 function Gallary()
 {
+
+    AOS.init({duration:1050});
+    AOS.refresh();
+    AOS.init({ once: true });
+
     let data = [
         {
             id: 1,
@@ -98,8 +103,8 @@ function Gallary()
           <div className="gallary-page-container" >
               {data.map((item, index)=>{
                   return (
-                      <div className="gallary-page-container-image" data-aos="fade-up" key={index} onClick={()=>getimg(item.imgSrc)} >
-                          <img src={item.imgSrc} style={{width :"100%"}} alt="" />
+                      <div className="gallary-page-container-image"  key={index} onClick={()=>getimg(item.imgSrc)} >
+                          <img src={item.imgSrc} style={{width :"100%"}} alt="" data-aos="fade-up" data-aos-delay="400" />
 
                       </div>
                   )

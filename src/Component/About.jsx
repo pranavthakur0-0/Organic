@@ -2,12 +2,15 @@ import '../Component/About.css'
 import Ticker from './countup';
 import { RiInstagramLine } from "react-icons/ri";
 import { MdVerified } from "react-icons/md";
-
+import AOS from 'aos';
 import { FaLinkedinIn, FaFacebookF, FaSeedling } from "react-icons/fa";
 
 
 function About()
 {
+    AOS.init({duration:1050});
+    AOS.refresh();
+    AOS.init({ once: true });
     
     return(
         <>
@@ -42,7 +45,7 @@ function About()
 
 
             <div className="about-our-team-head-container-one" >
-                    <div className="about-container-profile-card-temp" data-aos="fade-up" data-aos-delay="100">
+                    <div className="about-container-profile-card-temp" data-aos="fade-up" data-aos-delay="200">
                         <div className="about-container-profile-card-inner">
                             <div className="about-container-profile-card-inner-pic">
                                 <div className="about-container-profile-card-inner-pic-round">
@@ -70,7 +73,7 @@ function About()
                     </div>
 
 
-                    <div className="about-container-profile-card-temp" data-aos="fade-up" data-aos-delay="200">
+                    <div className="about-container-profile-card-temp" data-aos="fade-up" data-aos-delay="300">
                     <div className="about-container-profile-card-inner">
                             <div className="about-container-profile-card-inner-pic">
                                 <div className="about-container-profile-card-inner-pic-round">
@@ -97,7 +100,7 @@ function About()
                     </div>
 
 
-                    <div className="about-container-profile-card-temp" data-aos="fade-up" data-aos-delay="300">
+                    <div className="about-container-profile-card-temp" data-aos="fade-up" data-aos-delay="400">
                     <div className="about-container-profile-card-inner">
                             <div className="about-container-profile-card-inner-pic">
                                 <div className="about-container-profile-card-inner-pic-round">
@@ -125,7 +128,7 @@ function About()
                     </div>
 
 
-                    <div className="about-container-profile-card-temp" data-aos="fade-up" data-aos-delay="400">
+                    <div className="about-container-profile-card-temp" data-aos="fade-up" data-aos-delay="500">
                     <div className="about-container-profile-card-inner">
                             <div className="about-container-profile-card-inner-pic">
                                 <div className="about-container-profile-card-inner-pic-round">

@@ -1,6 +1,12 @@
 import "./Contact.css"
 import Map from "./Map";
+import AOS from 'aos';
 function Contact() {
+
+    AOS.init({duration:1050});
+    AOS.refresh();
+    AOS.init({ once: true });
+    
     return (
         <>
             <div className="main-contact-container">
