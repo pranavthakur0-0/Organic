@@ -21,14 +21,14 @@ function About()
             <div className="about-container-box-one">
             <div className="about-container-box-one-part-text"> 
             <div className="about-container-box-one-part-text-space">About</div>
-            <div className="about-container-box-one-part-text-heading">Fun Facts About <br />Truegenic</div>
-            <div className="about-container-box-one-part-text-heading-text">
+            <div className="about-container-box-one-part-text-heading" data-aos="fade-right" >Fun Facts About <br />Truegenic</div>
+            <div className="about-container-box-one-part-text-heading-text" data-aos="fade-right">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. In accusamus 
                 at repellendus architecto! Earum quas harum deserunt fuga? Eos amet iusto asperiores ducimus
                  vitae cum quam autem non recusandae accusantium.
             </div>
             </div>
-            <div className="about-container-box-one-part-image"> <div className="about-container-box-one-part-image-flex"></div> </div>
+            <div className="about-container-box-one-part-image" data-aos="fade-left" > <div className="about-container-box-one-part-image-flex"></div> </div>
             </div>
         </div>
 
@@ -42,7 +42,7 @@ function About()
 
 
             <div className="about-our-team-head-container-one" >
-                    <div className="about-container-profile-card-temp">
+                    <div className="about-container-profile-card-temp" data-aos="fade-up" data-aos-delay="100">
                         <div className="about-container-profile-card-inner">
                             <div className="about-container-profile-card-inner-pic">
                                 <div className="about-container-profile-card-inner-pic-round">
@@ -70,7 +70,7 @@ function About()
                     </div>
 
 
-                    <div className="about-container-profile-card-temp">
+                    <div className="about-container-profile-card-temp" data-aos="fade-up" data-aos-delay="200">
                     <div className="about-container-profile-card-inner">
                             <div className="about-container-profile-card-inner-pic">
                                 <div className="about-container-profile-card-inner-pic-round">
@@ -97,7 +97,7 @@ function About()
                     </div>
 
 
-                    <div className="about-container-profile-card-temp">
+                    <div className="about-container-profile-card-temp" data-aos="fade-up" data-aos-delay="300">
                     <div className="about-container-profile-card-inner">
                             <div className="about-container-profile-card-inner-pic">
                                 <div className="about-container-profile-card-inner-pic-round">
@@ -125,7 +125,7 @@ function About()
                     </div>
 
 
-                    <div className="about-container-profile-card-temp">
+                    <div className="about-container-profile-card-temp" data-aos="fade-up" data-aos-delay="400">
                     <div className="about-container-profile-card-inner">
                             <div className="about-container-profile-card-inner-pic">
                                 <div className="about-container-profile-card-inner-pic-round">
@@ -204,10 +204,10 @@ function About()
             <div className="about-our-values-main-container">
                 <div className="about-our-values-main-container-pic"></div>
                 <div className="about-our-values-main-container-text">
-                    <div className="about-our-values-main-container-text-heading">
+                    <div className="about-our-values-main-container-text-heading" data-aos="fade-left">
                         Truegenic&nbsp;<MdVerified />
                     </div>
-                    <div className="about-our-values-main-container-text-heading-text">
+                    <div className="about-our-values-main-container-text-heading-text" data-aos="fade-left">
                         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem
                          maiores pariatur quia, corporis ducimus obcaecati repellat vel eaque, 
                          fugit error sit totam magnam
@@ -234,14 +234,14 @@ function About()
             Our Mission <FaSeedling></FaSeedling>
         </div>
         <div className="about-main-container-our-mission-text-info">
-        <div className="about-main-container-our-mission-text">
+        <div className="about-main-container-our-mission-text"data-aos="fade-left">
           <div className="ciricle-about">
               <div className="about-circle-round"><div className="about-circle-round-white" /></div>
               </div>  Lorem ipsum dolor sit amet consectetur
              adipisicing elit. Sunt, provident reiciendis.
               Dolorem fuga nemo odio itaque sed fugit, corporis, autem sit nihil quis ratione, architecto hic commodi aperiam necessitatibus quia?
         </div>
-        <div className="about-main-container-our-mission-text">
+        <div className="about-main-container-our-mission-text"data-aos="fade-left">
         <div className="ciricle-about">
               <div className="about-circle-round"><div className="about-circle-round-white" /></div>
               </div> 
@@ -249,7 +249,7 @@ function About()
              adipisicing elit. Sunt, provident reiciendis.
               Dolorem fuga nemo odio itaque sed fugit, corporis, autem sit nihil quis ratione, architecto hic commodi aperiam necessitatibus quia?
         </div>
-        <div className="about-main-container-our-mission-text">
+        <div className="about-main-container-our-mission-text"data-aos="fade-left">
         <div className="ciricle-about">
               <div className="about-circle-round">
               <div className="about-circle-round-white" />

@@ -95,10 +95,10 @@ function Gallary()
                 <div className="gallary-page-container-main">
 
 
-          <div className="gallary-page-container">
+          <div className="gallary-page-container" >
               {data.map((item, index)=>{
                   return (
-                      <div className="gallary-page-container-image" key={index} onClick={()=>getimg(item.imgSrc)} >
+                      <div className="gallary-page-container-image" data-aos="fade-up" key={index} onClick={()=>getimg(item.imgSrc)} >
                           <img src={item.imgSrc} style={{width :"100%"}} alt="" />
 
                       </div>
