@@ -26,9 +26,7 @@ function About()
             <div className="about-container-box-one-part-text-space">About</div>
             <div className="about-container-box-one-part-text-heading" data-aos="fade-right" >Fun Facts About <br />Truegenic</div>
             <div className="about-container-box-one-part-text-heading-text" data-aos="fade-right">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. In accusamus 
-                at repellendus architecto! Earum quas harum deserunt fuga? Eos amet iusto asperiores ducimus
-                 vitae cum quam autem non recusandae accusantium.
+            Established in 2018 as an agri-tech company with focus on Research and Development, plant breeding, seed production and processing, and maketing of hybrid vegetable seeds.
             </div>
             </div>
             <div className="about-container-box-one-part-image" data-aos="fade-left" > <div className="about-container-box-one-part-image-flex"></div> </div>
@@ -53,8 +51,9 @@ function About()
                                 </div>
                             </div>
                             <div className="about-container-profile-card-inner-pic-text">
-                                    <div className="profile-card-inner-name">
-                                        Pranav Thakur
+                                    <div className="profile-card-inner-name-2">
+                                         
+                                             SUHAS SHARADCHANDRA BARGE
                                     </div>
                                     <div className="profile-card-inner-postion">
                                         Director
@@ -82,7 +81,8 @@ function About()
                             </div>
                             <div className="about-container-profile-card-inner-pic-text">
                                     <div className="profile-card-inner-name">
-                                        Pranav Thakur
+                                    DEVI DASS THAKUR  
+
                                     </div>
                                     <div className="profile-card-inner-postion">
                                         Director
@@ -109,7 +109,7 @@ function About()
                             </div>
                             <div className="about-container-profile-card-inner-pic-text">
                                     <div className="profile-card-inner-name">
-                                        Pranav Thakur
+                                        	BIRI SINGH
                                     </div>
                                     <div className="profile-card-inner-postion">
                                         Director
@@ -211,18 +211,11 @@ function About()
                         Truegenic&nbsp;<MdVerified />
                     </div>
                     <div className="about-our-values-main-container-text-heading-text" data-aos="fade-left">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem
-                         maiores pariatur quia, corporis ducimus obcaecati repellat vel eaque, 
-                         fugit error sit totam magnam
-                         molestias harum quo doloribus iste maxime quibusdam?
+                         By offering exceptional research outputs, we hope to contribute to the success of our farmers and stakeholders.
                          <br /><br /><br />
-                         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem
-                         maiores pariatur quia, corporis ducimus obcaecati repellat vel eaque, 
-                         fugit error sit totam magnam.
+                         We are always innovating and improving our production in order to give quality seed to farmers by keeping great genetic integrity and sprouting, as well as maintaining rigorous seed purity.
                          <br /><br /><br />
-                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia inventore aut 
-                         error molestias officiis a dolor fugiat odio, quos ipsa sit praesentium harum quia 
-                         earum est temporibus cupiditate, rem deserunt.
+                         Our single goal is to boost farmer productivity and consequently national output by being a pioneer in seed production in the country and remaining a world-class source of quality seed of oil seeds, cereals, pulses, spice, and fibre crops.
                     </div>
                 
                 </div>
@@ -240,33 +233,38 @@ function About()
         <div className="about-main-container-our-mission-text"data-aos="fade-left">
           <div className="ciricle-about">
               <div className="about-circle-round"><div className="about-circle-round-white" /></div>
-              </div>  Lorem ipsum dolor sit amet consectetur
-             adipisicing elit. Sunt, provident reiciendis.
-              Dolorem fuga nemo odio itaque sed fugit, corporis, autem sit nihil quis ratione, architecto hic commodi aperiam necessitatibus quia?
+              </div> 
+              <div className='about-main-container-our-mission-text-write'>
+              Develop vegetable varieties with innovative traits like higher yeild, better taste and quality.
+              </div>
         </div>
+        
         <div className="about-main-container-our-mission-text"data-aos="fade-left">
-        <div className="ciricle-about">
+          <div className="ciricle-about">
+              <div className="about-circle-round"><div className="about-circle-round-white" /></div>
+              </div>
+              <div className='about-main-container-our-mission-text-write'>
+              Economize the requirement of chemicals
+               through varietal development with inbuilt traits
+               of disease.
+              </div>
+    
+
+        </div>
+
+        <div className="about-main-container-our-mission-text"data-aos="fade-left">
+          <div className="ciricle-about">
               <div className="about-circle-round"><div className="about-circle-round-white" /></div>
               </div> 
-            Lorem ipsum dolor sit amet consectetur
-             adipisicing elit. Sunt, provident reiciendis.
-              Dolorem fuga nemo odio itaque sed fugit, corporis, autem sit nihil quis ratione, architecto hic commodi aperiam necessitatibus quia?
-        </div>
-        <div className="about-main-container-our-mission-text"data-aos="fade-left">
-        <div className="ciricle-about">
-              <div className="about-circle-round">
-              <div className="about-circle-round-white" />
+              <div className='about-main-container-our-mission-text-write'>
+              Develop varieties suited for varied agro climatic conditions.
               </div>
-              </div> 
-            Lorem ipsum dolor sit amet consectetur
-             adipisicing elit. Sunt, provident reiciendis.
-              Dolorem fuga nemo odio itaque sed fugit, corporis, autem sit nihil quis ratione, architecto hic commodi aperiam necessitatibus quia?
-        </div>
-        </div>
-        </div>
         </div>
 
-
+        </div>
+        </div>
+        
+        </div>
         </div>
         <div className="about-team-space" />
 

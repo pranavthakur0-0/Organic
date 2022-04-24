@@ -28,8 +28,7 @@ function Contact() {
                 <div className="main-container-contact-address">
                     Address
                     <div className="main-container-contact-address-text">
-                        Vivamus congue mi et
-                        nunc vehicula Street , 58
+                    Survey No.61/3/2-6, Plot No.40, Kothrud, Shantiban Co-Opp. Housing Society, Pune ,Pune,Maharashtra,India,411029
                     </div>
                 </div>
                 
@@ -37,6 +36,7 @@ function Contact() {
                     Phone
                     <div className="main-container-contact-address-number">
                         +91 2341341234
+                        < br/>
                         +91 2341341234
                     </div>
                 </div>
@@ -50,7 +50,7 @@ function Contact() {
                 </div>
                 </div>
                 <div className="main-container-contact-main-address-box-email">
-                    <Map />
+                   
                 </div>
             </div>
 

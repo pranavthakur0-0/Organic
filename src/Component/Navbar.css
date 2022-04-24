@@ -51,9 +51,8 @@ nav {
     display: flex;
     justify-content: space-around;
     height: 10vh;   
-    min-width: 35vw;
-    align-items: center;
-    
+    min-width: 40%;
+    align-items: center; 
 }
 
 .navbar-items
@@ -97,7 +96,53 @@ nav {
     height: 2px;
 
 }
-          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 900px)
+{
+    .navbar-links
+{
+    padding-right: 40px;
+    display: flex;
+    justify-content: space-around;
+    height: 10vh;   
+    min-width: 60%;
+    align-items: center; 
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media (max-width: 480px)
 {
     nav {

@@ -35,8 +35,7 @@ function Footer() {
 
                         </div>
                         <div className="footer-one-second">
-                            Donec placerat, metus sed consectetur viverra, dolor nisl egestas ligula,
-                            ac gravida turpis orci eget quam. Aliquam nulla nisi, accumsan id sapien varius, egestas vehicula di
+                            We warmly invite you to contact our marketing team for assistance in all aspects of your varitey choice for advice with agro-technical matters and for any futher information.
                         </div>
                         <div className="footer-one-third">
                             <AiOutlineLinkedin className="footer-one-third-icon-one"></AiOutlineLinkedin>

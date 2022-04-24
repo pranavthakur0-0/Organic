@@ -2,15 +2,16 @@
 {
     height: 60vh;
     width: 100%;
-    background-image: url(../Component/images/contact-us-image.jpg);
+    background-image: url(../Component/images/contact.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: right;
-    background-position-y: bottom;
+    background-position-y: center;
+
 }
 .contact-container-heading
 {
-    padding: 180px 0px 0px 180px;
+    padding: 8vw 0px 0px 180px;
     height: 100%;
     width: 100%;
     font-size: 90px;
@@ -52,6 +53,7 @@
 .main-container-contact-main-address-box
 {
     display: flex;
+    justify-content: center;
     height: 60vh;
     width: 100%;
 }
@@ -98,7 +100,7 @@
 {
     height: 20vh;
     padding: 20px 0px 0px 0px;
-    width: 70%;
+    width: 90%;
     font-size: 17px;
     line-height: 30px;
     color: #443637;
@@ -134,7 +136,8 @@
 .main-container-contact-main-address-box-email
 {
     height: 100%;
-    width: 50%;
+    width: 30%;
+
     padding: 0px 10% 0px 0px;
 }
 
@@ -159,10 +162,10 @@
 {
     height: 27vh;
     width: 100%;
-    background-image: url(../Component/images/contact-us-image.jpg);
+    background-image: url(../Component/images/contact.jpg);
     background-size: 100vw;
     background-repeat: no-repeat;
-    background-position-x: 40px;
+    background-position-x: right;
     background-position-y: center;
 }
 .main-container-contact-space
@@ -235,7 +238,7 @@
     height: 5vh;
     padding: 5px 0px 0px 0px;
     width: 100%;
-    font-size: 3vw;
+    font-size: 4vw;
     line-height: 30px;
     color: #443637;
     font-weight: 300;
@@ -244,10 +247,11 @@
 }
 .main-container-contact-address-number
 {
-    height: 5vh;
+    height: 7vh;
     padding: 5px 0px 0px 0px;
     width: 100%;
-    font-size: 3vw;
+    
+    font-size: 4vw;
     line-height: 30px;
     color: #443637;
     font-weight: 300;
@@ -259,7 +263,7 @@
     height: 5vh;
     padding: 5px 0px 0px 0px;
     width: 100%;
-    font-size: 3vw;
+    font-size: 4vw;
     line-height: 30px;
     color: #443637;
     font-weight: 300;
@@ -270,13 +274,14 @@
 .main-container-contact-main-address-box
 {
     display: flex;
-    height: 100vh;
+    height: 120vh;
     width: 100%;
     padding: 10px 0px 50px 0px;
 }
 
 .main-container-contact-main-address-box-contain
 {
+    height: 70vh;
     padding: 20px 10px 20px 10px ;
     display: flex;
     flex-direction: column;
@@ -287,9 +292,9 @@
 .main-container-contact-main-address-box-email
 {
     display: flex;
-    align-self: center;
-    height: 100%;
-    width: 90%;
+    align-items: center;
+    height: 0%;
+    width: 0%;
     padding: 0px 0% 0px 0px;
 }
 

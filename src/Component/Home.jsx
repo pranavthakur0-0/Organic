@@ -20,9 +20,8 @@ function Home() {
                     </div>
                     <div className="home-left-two" data-aos="fade-up"  data-aos-duration="1000">
                         <span>
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid laborum deleniti,
-                            nisi unde dolore, porroiure soluta eligendi molestiae adipisci quia. Unde ab, dicta
-                            obcaecati fuga possimus tenetur minus quisquam.
+                        The core of the seed is all of Earth's past evolution, human historical evolution, and the possibility for future evolution.
+                         Because culture developed the seed via deliberate selection—women chose the greatest and most diverse—the seed is the essence of culture. 
                         </span>
                     </div>
                 </div>
@@ -41,11 +40,10 @@ function Home() {
                 <div className='section-info-one'></div>
                 <div className='section-info-two'>
                     <div className="section-info-two-partone" data-aos="fade-right">
-                        Special Support & Caring Organic Farmino Agency
+                        Special Support & Caring Organic Turegenic seeds
                     </div>
                     <div className="section-info-two-parttwo" data-aos="fade-right" data-aos-delay="200">
-                        Suspendisse faucibus neque in ante dignissim interdum at sit amet
-                        tellus. Proin aliquam mi eget posuere porta. Nam porta neque vel lectus dictum condimentum.
+                    We all know that we can't plant a seed with our fists closed. We must extend our hands to plant." Seed planting is a movement that is rising in popularity by the day, but it is a joy that cannot be forgotten once experienced.
                     </div>
                     <div className="section-info-two-partthree" data-aos="fade-right" data-aos-delay="200">
                         <div className="partthree-logo-text">
@@ -53,8 +51,7 @@ function Home() {
                             </div>
                             <div className="text">
                                 <div className="text-heading">Natural Process</div>
-                                <div className="text-text">Liquam nulla nisi, accumsan id sapien varius, egestas vehicula
-                                    diam. Suspendisse faucibus neque</div>
+                                <div className="text-text">Every seed is produced naturally then sent to customers.</div>
                             </div>
                         </div>
                     </div>
@@ -65,9 +62,8 @@ function Home() {
                             <div className="logo">
                             </div>
                             <div className="text">
-                                <div className="text-heading">Natural Process</div>
-                                <div className="text-text">Liquam nulla nisi, accumsan id sapien varius, egestas vehicula
-                                    diam. Suspendisse faucibus neque</div>
+                                <div className="text-heading">100% Organic Products</div>
+                                <div className="text-text">Truegenic offers 100% organically grown seeds.</div>
                             </div>
                         </div>
                     </div>
@@ -76,9 +72,8 @@ function Home() {
                             <div className="logo">
                             </div>
                             <div className="text">
-                                <div className="text-heading">Natural Process</div>
-                                <div className="text-text">Liquam nulla nisi, accumsan id sapien varius, egestas vehicula
-                                    diam. Suspendisse faucibus neque</div>
+                                <div className="text-heading">Homegrown Goodness</div>
+                                <div className="text-text">At Truegenic, we carefully cultivate each seed using organic methods.</div>
                             </div>
                         </div>
                     </div>
@@ -105,7 +100,7 @@ function Home() {
                 <div className='section-info-four' data-aos="fade-up" data-aos-delay="600">
                     <div className='section-info-card2'>
                         <div className="section-card2">
-                            <div className="section-card-logo3">
+                            <div className="section-card-logo2">
                                 <div className="section-card-logo-circle2"></div>
                             </div>
                         </div>
@@ -170,11 +165,10 @@ function Home() {
                         </div>
                         <div className='text'>
                             <div className='heading'>
-                                Naturall Food
+                                Natural Food
                             </div>
                             <div className="text">
-                                Nam porta neque vel
-                                lectus dictum
+                            Truegenic produces organically grown seeds.
 
                             </div>
                         </div>
@@ -190,8 +184,7 @@ function Home() {
                                 Biological Safe
                             </div>
                             <div className="text">
-                                Suspendisse vitae fsgj
-                                posuere lorem
+                            Truegenic's seeds are biologically safe.
                             </div>
                         </div>
                     </div>
@@ -206,8 +199,7 @@ function Home() {
                                 Improve Health
                             </div>
                             <div className="text">
-                                Aliquam nulla nisi,
-                                accumsan id sapien
+                            Truegenic offers fresh and nutritious seeds.
 
                             </div>
                         </div>
@@ -217,9 +209,7 @@ function Home() {
 
                 </div>
                 <div className="section-home-main-container-why-us-text">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam
-                    aliquid id laborum minus et, quod, quis omnis cupiditate rerum tempore ipsum,
-                    consequatur est eos. Iste aliquam pariatur illum expedita dolore?
+                We have something unique to offer at Truegenic Seed. Every member of our staff is working together towards goal into becoming India's most reputable seed company. We are looking forward to seeing you! 
                 </div>
 
             </div>

@@ -355,7 +355,7 @@ img
 {
     width: 25%;
     height: 60%;
-    background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/cropped-Farmino_logo-1.png);
+    background-image: url(./images/tick.png);
     background-size: contain;
     background-repeat: no-repeat;
 
@@ -491,7 +491,7 @@ img
     box-shadow: 0 3px 10px rgba(157, 167, 136, 0.3);
 }
 
-.section-card-logo3
+.section-card-logo2
 {
     width: 90px;
     height: 90px;
@@ -501,6 +501,23 @@ img
     justify-content: center;
     background: rgb(127,183,0);
     background: linear-gradient(0deg, rgba(127,183,0,1) 0%, rgba(19,155,11,1) 100%);
+
+}
+.section-card-logo3
+{
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #1C4D4E;
+    justify-content: center;
+    background-image: url(./images/seed.png);
+    background-size: 160px;
+    background-repeat: no-repeat;
+    background-position-x: -37px;
+    background-position-y: -13px ;
+
 
 }
 
@@ -541,18 +558,6 @@ img
     background-size: contain;
 }
 
-
-.section-card-logo-circle3
-{
-    width: 60%;
-    height: 60%;
-    display: flex;
-    justify-self: center;
-    align-content: center;
-    background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/08/meat.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-}
 
 
 .section-card2
@@ -1142,7 +1147,7 @@ img
    margin: 10px 0px 0px 0px;
     max-width: auto;
     height: 50%;
-    background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/cropped-Farmino_logo-1.png);
+    background-image: url(./images/tick.png);
     background-size: contain;
     background-repeat: no-repeat;
 

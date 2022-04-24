@@ -2,11 +2,12 @@
 {
     height: 60vh;
     width: 100%;
-    background-image: url(../Component/images/product-image.png);
+    background-image: url(../Component/images/ourproducts.jpg);
     background-repeat: no-repeat;
-    background-size: 800px;
-    background-position-y: 70px;
-    background-position-x: 700px;
+    background-size: cover;
+    background-position-y: center;
+
+
 }
 .main-container-product-page-heading
 {
@@ -36,7 +37,7 @@
 
 .main-container-section-product-left
 {
-    height: 56vh;
+    height: 60vh;
     width: 80%;
     font-size: 3rem;
     padding: 50px 30px 50px 30px;
@@ -80,7 +81,21 @@
     border-radius: 100%;
 }
 
-.main-container-section-product-left-image-overlay
+
+.main-container-section-product-left-image-overlay-one
+{
+    display: block;
+    background-image: url(../Component/images/Kanika.png);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    transition: 0.5s;
+    border-radius: 100%;
+}
+
+
+
+.main-container-section-product-left-image-overlay-two
 {
     display: block;
     background-image: url(../Component/images/Map.jpeg);
@@ -92,7 +107,79 @@
     border-radius: 100%;
 }
 
+.main-container-section-product-left-image-overlay-three
+{
+    display: block;
+    background-image: url(../Component/images/Rafale.png);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    transition: 0.5s;
+    border-radius: 100%;
+}
+.main-container-section-product-left-image-overlay-four
+{
+    display: block;
+    background-image: url(../Component/images/Madhubala.png);
+    height: 100%;
+    width: 100%;
+    background-position-x: -30px;
+    background-size: cover;
+    transition: 0.5s;
+    border-radius: 100%;
+}
+.main-container-section-product-left-image-overlay-five
+{
+    display: block;
+    background-image: url(../Component/images/Mannat.png);
+    height: 100%;
+    width: 100%;
+    background-position-x: -30px;
+    background-size: cover;
+    transition: 0.5s;
+    border-radius: 100%;
+}
+
+.main-container-section-product-left-image-overlay-six
+{
+    display: block;
+    background-image: url(../Component/images/Sania.png);
+    height: 100%;
+    width: 100%;
+    background-position-x: -30px;
+    background-size: cover;
+    transition: 0.5s;
+    border-radius: 100%;
+}
+.main-container-section-product-left-image-overlay-seven
+{
+    display: block;
+    background-image: url(../Component/images/Jackpot.png);
+    height: 100%;
+    width: 100%;
+    background-position-x: -70px;
+    background-size: cover;
+    transition: 0.5s;
+    border-radius: 100%;
+}
+.main-container-section-product-left-image-overlay-eight
+{
+    display: block;
+    background-image: url(../Component/images/Rambo.png);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    transition: 0.5s;
+    border-radius: 100%;
+}
+
 .main-container-section-product-left-cover:hover .main-container-section-product-left-image-overlay
+{
+    transform: scale(1.1);
+}
+
+
+.main-container-section-product-left-cover:hover .main-container-section-product-left-image-overlay-one
 {
     transform: scale(1.1);
 }
@@ -114,7 +201,7 @@
     height: 30%;
     width: 100%;
     font-size: 0.8em;
-    padding: 60px 30px 0px 70px;
+    padding: 50px 30px 0px 70px;
     color: #1C4D4E;
 }
 
@@ -123,7 +210,7 @@
     height: 60%;
     width: 100%;
     font-size: 0.35em;
-    padding: 22px 50px 0px 70px;
+    padding: 10px 50px 0px 70px;
     font-weight: 400;
     color: #443737;
 }
@@ -131,7 +218,7 @@
 
 .main-container-section-product-right
 {
-    height: 56vh;
+    height: 60vh;
     width: 100%;
     font-size: 3rem;
     padding: 50px 30px 50px 30px;
@@ -190,7 +277,102 @@
     transition: 0.5s;
     border-radius: 100%;
 }
+.main-container-section-product-right-image-overlay-one
+{
+    display: block;
+    background-image: url(../Component/images/Divya.jpeg);
+    height: 100%;
+    width: 100%;
+    background-position-y: -170px;
+    background-size: cover;
+    transition: 0.5s;
+    border-radius: 100%;
+}
+.main-container-section-product-right-image-overlay-two
+{
+    display: block;
+    background-image: url(../Component/images/Tomboy.jpg);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position-y: -40px;
+    background-size: cover;
+    transition: 0.5s;
+    border-radius: 100%;
+}
 
+.main-container-section-product-right-image-overlay-three
+{
+    display: block;
+    background-image: url(../Component/images/Hilton.png);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position-x: -40px;
+    background-size: cover;
+    transition: 0.5s;
+    border-radius: 100%;
+}
+
+.main-container-section-product-right-image-overlay-four
+{
+    display: block;
+    background-image: url(../Component/images/Niagara.png);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position-x: -40px;
+    background-size: cover;
+    transition: 0.5s;
+    border-radius: 100%;
+}
+
+.main-container-section-product-right-image-overlay-five
+{
+    display: block;
+    background-image: url(../Component/images/Bharti.png);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position-x: -100px;
+    background-size: cover;
+    transition: 0.5s;
+    border-radius: 100%;
+}
+.main-container-section-product-right-image-overlay-six
+{
+    display: block;
+    background-image: url(../Component/images/Punjabsunehri.png);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position-x: -20px;
+    background-size: cover;
+    transition: 0.5s;
+    border-radius: 100%;
+}
+.main-container-section-product-right-image-overlay-seven
+{
+    display: block;
+    background-image: url(../Component/images/Henry.png);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 0.5s;
+    border-radius: 100%;
+}
+.main-container-section-product-right-image-overlay-eight
+{
+    display: block;
+    background-image: url(../Component/images/Nova.png);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 280px;
+    transition: 0.5s;
+    border-radius: 100%;
+}
 .main-container-section-product-right-cover:hover .main-container-section-product-right-image-overlay
 {
     transform: scale(1.1);
@@ -229,27 +411,27 @@
 
 .FaStar
 {
-    height: 40%;
-    margin-left: -0.3em;
+    height: 2vh;
+    margin-left: -0.2em;
     margin-right: -0.2em;
 }
 
 .halfFaStar
 {
-    height: 40%;
+    height: 2vh;
     margin-left: -0.5em;
     margin-right: -0.2em;
 }
 .FaStar-right
 {
-    height: 40%;
-    margin-left: -0.3em;
+    height: 30%;
+    margin-left: -0.2em;
     margin-right: -0.2em;
 }
 
 .halfFaStar-right
 {
-    height: 40%;
+    height: 30%;
     margin-left: -0.5em;
     margin-right: -0.2em;
 }
@@ -290,10 +472,10 @@
 }
 
 
-.product-container-circle
+/*.product-container-circle
 {
     display: inline-block;
-    width: 30vw; /* half of width*/
+    width: 30vw; /* half of width
     height: 100%; 
     border-radius: 0 100vh 100vh 0;
     background-color: #ffe5b6ee;
@@ -301,6 +483,38 @@
     top: 120%;
     z-index: -999999;
 }
+
+*/
+
+
+.main-container-section-product-left-text-content-plant-heading
+{
+    color: #1C4D4E;
+    font-size: 2vw;
+    font-weight: 500;
+    line-height: 5vh;
+}
+
+.main-container-section-product-left-text-content-plant-text
+{
+    padding-left: 1vw;
+    line-height: 1.9vw;
+    padding-top: 1vw;
+    color: #443637;
+    font-size: 1.1vw;
+    font-weight: 300;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -313,8 +527,11 @@
     background-image: url(../Component/images/product-image.png);
     background-repeat: no-repeat;
     background-size: contain;
-    background-position-x: right;
-    background-size: 200px;
+    background-image: url(../Component/images/ourproducts.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 0vh;
+    background-position-y: 0vh;
 
 }
 .main-container-product-page-heading
@@ -440,6 +657,18 @@
 {
     height: 40%;
     width: 70%;
+}
+
+.main-container-section-product-left-image-overlay-one
+{
+    display: block;
+    background-image: url(../Component/images/Kanika.png);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: 0.5s;
+    border-radius: 100%;
 }
 
 .main-container-section-product-left-image-overlay
@@ -582,4 +811,30 @@
 {
     font-size: 35px;
 }
+
+
+.main-container-section-product-left-text-content-plant-heading
+{
+    color: #1C4D4E;
+    font-size: 5.4vw;
+    font-weight: 500;
+    line-height: 2vh;
+}
+
+.main-container-section-product-left-text-content-plant-text
+{
+
+    padding-left: 1vw;
+    color: #443637;
+    font-size: 3vw;
+    font-weight: 300;
+    line-height: 2.5vh;
+    
+}
+
+
+
+
+
+
 }

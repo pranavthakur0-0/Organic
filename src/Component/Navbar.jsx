@@ -45,7 +45,7 @@ const call=()=>
             <div className='menu-btn'>
                 <div  className={isCheck ? "check-button-close" : "check-button-open"} onClick={show}>   </div >
                </div>
-               <MediaQuery minWidth={1224}>
+               <MediaQuery minWidth={750}>
 
             <div className={isActive ? "navbar-links" : "navbar-links-after"}>
         
@@ -56,7 +56,6 @@ const call=()=>
             <NavLink activeClassName="active" to="/contact" className="navbar-items">Contact <div className='navbar-hover-lines'/></NavLink>
             </div>
             </MediaQuery>
-
             
             <MediaQuery maxWidth={480}>
             <div onClick={call} className={isActive ? "navbar-links" : "navbar-links-after"}>
