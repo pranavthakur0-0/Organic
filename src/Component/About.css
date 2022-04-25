@@ -233,7 +233,7 @@ padding: 70px 50px 0px 0px;
 
 .about-container-profile-card-temp
 {
-    height: 55vh;
+    height: 50vh;
     width: 21%;
     display: flex;
     align-items: center;
@@ -259,7 +259,8 @@ padding: 70px 50px 0px 0px;
 {
     transition: 0.5s all ease;
     transition: 0.5 all ease;
-    height: 110%;
+    height: 100%;
+    transform: scale(1.05);
     width: 100%;
     border-radius: 15px;
     background-color: #aeff0049;

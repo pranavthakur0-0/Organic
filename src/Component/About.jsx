@@ -51,9 +51,9 @@ function About()
                                 </div>
                             </div>
                             <div className="about-container-profile-card-inner-pic-text">
-                                    <div className="profile-card-inner-name-2">
+                                    <div className="profile-card-inner-name">
                                          
-                                             SUHAS SHARADCHANDRA BARGE
+                                    BIRI SINGH
                                     </div>
                                     <div className="profile-card-inner-postion">
                                         Director
@@ -108,8 +108,9 @@ function About()
                                 </div>
                             </div>
                             <div className="about-container-profile-card-inner-pic-text">
-                                    <div className="profile-card-inner-name">
-                                        	BIRI SINGH
+                                    <div className="profile-card-inner-name-2">
+                                        
+                                            SUHAS SHARADCHANDRA BARGE
                                     </div>
                                     <div className="profile-card-inner-postion">
                                         Director

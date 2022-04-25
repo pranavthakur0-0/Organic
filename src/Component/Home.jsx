@@ -50,7 +50,10 @@ function Home() {
                             <div className="logo">
                             </div>
                             <div className="text">
-                                <div className="text-heading">Natural Process</div>
+                                <div className="text-heading">
+                                Profitability
+                                       
+                                    </div>
                                 <div className="text-text">Every seed is produced naturally then sent to customers.</div>
                             </div>
                         </div>
@@ -62,7 +65,7 @@ function Home() {
                             <div className="logo">
                             </div>
                             <div className="text">
-                                <div className="text-heading">100% Organic Products</div>
+                                <div className="text-heading"> Commitment</div>
                                 <div className="text-text">Truegenic offers 100% organically grown seeds.</div>
                             </div>
                         </div>
@@ -72,7 +75,7 @@ function Home() {
                             <div className="logo">
                             </div>
                             <div className="text">
-                                <div className="text-heading">Homegrown Goodness</div>
+                                <div className="text-heading">Exclusivity</div>
                                 <div className="text-text">At Truegenic, we carefully cultivate each seed using organic methods.</div>
                             </div>
                         </div>
@@ -88,7 +91,7 @@ function Home() {
                             </div>
                         </div>
                         <div className="section-info-heading">
-                            Seed Care
+                            Quality Seeds
                         </div>
                         <div className="section-info-text">
                             Aenean eleifend rhoncus nisi, vel
@@ -105,7 +108,7 @@ function Home() {
                             </div>
                         </div>
                         <div className="section-info-heading2">
-                            Seed Care
+                             Diversity
                         </div>
                         <div className="section-info-text3">
                             Aenean eleifend rhoncus nisi, vel
