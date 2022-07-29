@@ -1,4 +1,4 @@
-import Card from './Card';
+
 import './Home.css'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -225,8 +225,7 @@ function Home() {
                 </div>
 
                 <div className="home-main-container-main-testimonial-carousel">
-                    <Card>
-                    </Card>
+              
                 </div>
 
 
