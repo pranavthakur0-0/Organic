@@ -1,5 +1,4 @@
 import "./Contact.css"
-import Map from "./Map";
 import AOS from 'aos';
 function Contact() {
 
