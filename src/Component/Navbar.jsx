@@ -40,7 +40,9 @@ const call=()=>
            
         <nav className={isCheck ? " main-navbar" : " main-navbar-close"}>
             <div className="logo-text">
-                <span className="navbar-logo"></span>
+                <span className="navbar-logo">
+                    <span>O</span>rganico
+                </span>
             </div>
             <div className='menu-btn'>
                 <div  className={isCheck ? "check-button-close" : "check-button-open"} onClick={show}>   </div >

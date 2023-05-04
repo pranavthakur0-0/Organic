@@ -16,7 +16,7 @@ function About()
         <>
         <div className="about-main-container">
             <div className="about-turegenic-heading">
-                About Truegenic
+                About Lorem
             </div>
         </div>
 
@@ -24,9 +24,9 @@ function About()
             <div className="about-container-box-one">
             <div className="about-container-box-one-part-text"> 
             <div className="about-container-box-one-part-text-space">About</div>
-            <div className="about-container-box-one-part-text-heading" data-aos="fade-right" >Fun Facts About <br />Truegenic</div>
+            <div className="about-container-box-one-part-text-heading" data-aos="fade-right" >Fun Facts About <br />Lorem</div>
             <div className="about-container-box-one-part-text-heading-text" data-aos="fade-right">
-            Established in 2018 as an agri-tech company with focus on Research and Development, plant breeding, seed production and processing, and maketing of hybrid vegetable seeds.
+            dolor, sit amet consectetur adipisicing elit. Eum quisquam cumque consectetur laudantium, recusandae reprehenderit incidunt, quaerat fugit, repellendus animi optiomollitia?
             </div>
             </div>
             <div className="about-container-box-one-part-image" data-aos="fade-left" > <div className="about-container-box-one-part-image-flex"></div> </div>
@@ -53,7 +53,7 @@ function About()
                             <div className="about-container-profile-card-inner-pic-text">
                                     <div className="profile-card-inner-name">
                                          
-                                    BIRI SINGH
+                                   Lorem
                                     </div>
                                     <div className="profile-card-inner-postion">
                                         Director
@@ -81,7 +81,7 @@ function About()
                             </div>
                             <div className="about-container-profile-card-inner-pic-text">
                                     <div className="profile-card-inner-name">
-                                    DEVI DASS THAKUR  
+                                    Lorem  
 
                                     </div>
                                     <div className="profile-card-inner-postion">
@@ -110,7 +110,7 @@ function About()
                             <div className="about-container-profile-card-inner-pic-text">
                                     <div className="profile-card-inner-name-2">
                                         
-                                            SUHAS SHARADCHANDRA BARGE
+                                            Lorem
                                     </div>
                                     <div className="profile-card-inner-postion">
                                         Director
@@ -138,7 +138,7 @@ function About()
                             </div>
                             <div className="about-container-profile-card-inner-pic-text">
                                     <div className="profile-card-inner-name">
-                                        Pranav Thakur
+                                      Lorem
                                     </div>
                                     <div className="profile-card-inner-postion">
                                         Director
@@ -209,14 +209,14 @@ function About()
                 <div className="about-our-values-main-container-pic"></div>
                 <div className="about-our-values-main-container-text">
                     <div className="about-our-values-main-container-text-heading" data-aos="fade-left">
-                        Truegenic&nbsp;<MdVerified />
+                       Lorem&nbsp;<MdVerified />
                     </div>
                     <div className="about-our-values-main-container-text-heading-text" data-aos="fade-left">
-                         By offering exceptional research outputs, we hope to contribute to the success of our farmers and stakeholders.
+                    dolor, sit amet consectetur adipisicing elit. Eum quisquam cumque consectetur laudantium, recusandae reprehenderit incidunt, quaerat fugit, repellendus
                          <br /><br /><br />
-                         We are always innovating and improving our production in order to give quality seed to farmers by keeping great genetic integrity and sprouting, as well as maintaining rigorous seed purity.
+                         dolor, sit amet consectetur adipisicing elit. Eum quisquam cumque consectetur laudantium, recusandae reprehenderit incidunt, quaerat fugit, repellendus animi optio distinctio
                          <br /><br /><br />
-                         Our single goal is to boost farmer productivity and consequently national output by being a pioneer in seed production in the country and remaining a world-class source of quality seed of oil seeds, cereals, pulses, spice, and fibre crops.
+                         dolor, sit amet consectetur adipisicing elit. Eum quisquam cumque consectetur laudantium, recusandae reprehenderit incidunt, quaerat fugit, repellendus animi optio distinctio maiores totam quos illum aspernatur minima numquam mollitia?
                     </div>
                 
                 </div>
@@ -236,7 +236,7 @@ function About()
               <div className="about-circle-round"><div className="about-circle-round-white" /></div>
               </div> 
               <div className='about-main-container-our-mission-text-write'>
-              Develop vegetable varieties with innovative traits like higher yeild, better taste and quality.
+              dolor, sit amet consectetur adipisicing elit. Eum quisquam cumque consectetur laudantium, recusandae reprehenderit incidunt, quaerat fugit,
               </div>
         </div>
         
@@ -245,9 +245,7 @@ function About()
               <div className="about-circle-round"><div className="about-circle-round-white" /></div>
               </div>
               <div className='about-main-container-our-mission-text-write'>
-              Economize the requirement of chemicals
-               through varietal development with inbuilt traits
-               of disease.
+              dolor, sit amet consectetur adipisicing elit. Eum quisquam cumque consectetur laudantium, recusandae reprehenderit incidunt, quaerat fugit,
               </div>
     
 
@@ -258,7 +256,7 @@ function About()
               <div className="about-circle-round"><div className="about-circle-round-white" /></div>
               </div> 
               <div className='about-main-container-our-mission-text-write'>
-              Develop varieties suited for varied agro climatic conditions.
+              dolor, sit amet consectetur adipisicing elit. Eum quisquam cumque consectetur laudantium, recusandae reprehenderit incidunt, quaerat fugit,
               </div>
         </div>
 

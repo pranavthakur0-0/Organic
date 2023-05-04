@@ -28,14 +28,16 @@ function Footer() {
                     <div className="footer-one">
                         <div className="footer-one-first">
                             <div className="footer-one-first-box">
-                                <div className="footer-one-first-box-logo-container"> </div>
+                                <div className="footer-one-first-box-logo-container">
+                                    <span>O</span>
+                                    rganico </div>
 
 
                             </div>
 
                         </div>
                         <div className="footer-one-second">
-                            We warmly invite you to contact our marketing team for assistance in all aspects of your varitey choice for advice with agro-technical matters and for any futher information.
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero repellat magni ullam nemo nam perferendis, laborum deleniti quas nisi illum quam ad dicta libero iure? Ex voluptates vitae ipsa rem!
                         </div>
                         <div className="footer-one-third">
                             <AiOutlineLinkedin className="footer-one-third-icon-one"></AiOutlineLinkedin>

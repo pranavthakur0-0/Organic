@@ -31,7 +31,7 @@ function Product() {
               </div>
               <div className="main-container-section-product-left-text">
                 <div className="main-container-section-product-left-text-heading">
-                Kanika  &nbsp;
+                Lorem &nbsp;
                   <FaStar className="FaStar" />
                   <FaStar className="FaStar" />
                   <FaStar className="FaStar" />
@@ -47,13 +47,12 @@ function Product() {
                     </h1>
                     <div className="main-container-section-product-left-text-content-plant-text">
                       <ul>
+                      <li> Lorem ipsum dolor sit amet consectetu.</li>
                         <li>
-                          {" "}
-                          Highly resistant to YVMV & OLCV.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
-                        <li>Very good average fruit weight.</li>
                         <li>
-                        Good for all season cultivation.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                       </ul>
                     </div>
@@ -78,7 +77,7 @@ function Product() {
               </div>
               <div className="main-container-section-product-left-text">
                 <div className="main-container-section-product-right-text-heading">
-                  Divya &nbsp;
+                  Lorem &nbsp;
                   <FaStar className="FaStar-right" />
                   <FaStar className="FaStar-right" />
                   <FaStar className="FaStar-right" />
@@ -93,13 +92,12 @@ function Product() {
                     </h1>
                     <div className="main-container-section-product-left-text-content-plant-text">
                       <ul>
+                      <li> Lorem ipsum dolor sit amet consectetu.</li>
                         <li>
-                          {" "}
-                          Highly resistant to YVMV & OLCV.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
-                      <li>Very good average fruit weight.</li>
                         <li>
-                        Good for all season cultivation.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                       </ul>
                     </div>
@@ -133,7 +131,7 @@ function Product() {
               </div>
               <div className="main-container-section-product-left-text">
                 <div className="main-container-section-product-left-text-heading">
-                  Rockstar &nbsp;
+                Lorem &nbsp;
                   <FaStar className="FaStar" />
                   <FaStar className="FaStar" />
                   <FaStar className="FaStar" />
@@ -149,14 +147,12 @@ function Product() {
                     </h1>
                     <div className="main-container-section-product-left-text-content-plant-text">
                       <ul>
+                      <li> Lorem ipsum dolor sit amet consectetu.</li>
                         <li>
-                          {" "}
-                          High yield potential & long duration (4-6 months).
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
-                        <li>Wide adaptability.</li>
                         <li>
-                          Good keeping quality and suitable for long distance
-                          shipping.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                       </ul>
                     </div>
@@ -181,7 +177,7 @@ function Product() {
               </div>
               <div className="main-container-section-product-left-text">
                 <div className="main-container-section-product-right-text-heading">
-                  Tomboy &nbsp;
+                Lorem &nbsp;
                   <FaStar className="FaStar-right" />
                   <FaStar className="FaStar-right" />
                   <FaStar className="FaStar-right" />
@@ -196,17 +192,12 @@ function Product() {
                     </h1>
                     <div className="main-container-section-product-left-text-content-plant-text">
                       <ul>
+                      <li> Lorem ipsum dolor sit amet consectetu.</li>
                         <li>
-                          {" "}
-                          High yield potential & long duration (4-6 months).
-                        </li>
-                        <li>Wide adaptability.</li>
-                        <li>
-                        Round, medium size (100 – 120 g).
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                         <li>
-                          Good keeping quality and suitable for long distance
-                          shipping.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                       </ul>
                     </div>
@@ -236,7 +227,7 @@ function Product() {
               </div>
               <div className="main-container-section-product-left-text">
                 <div className="main-container-section-product-left-text-heading">
-                  Rafale &nbsp;
+                Lorem &nbsp;
                   <FaStar className="FaStar" />
                   <FaStar className="FaStar" />
                   <FaStar className="FaStar" />
@@ -252,16 +243,12 @@ function Product() {
                     </h1>
                     <div className="main-container-section-product-left-text-content-plant-text">
                       <ul>
+                      <li> Lorem ipsum dolor sit amet consectetu.</li>
                         <li>
-                          {" "}
-                          Good tolerance to TYLCV.
-                        </li>
-                        <li>Good heat tolerant with good fruit setting in summer.</li>
-                        <li>
-                        High yield potential. 
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                         <li>
-                        Good keeping quality and suitable for long distance shipping.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                       </ul>
                     </div>
@@ -286,7 +273,7 @@ function Product() {
               </div>
               <div className="main-container-section-product-left-text">
                 <div className="main-container-section-product-right-text-heading">
-                  Hilton &nbsp;
+                Lorem&nbsp;
                   <FaStar className="FaStar-right" />
                   <FaStar className="FaStar-right" />
                   <FaStar className="FaStar-right" />
@@ -301,15 +288,13 @@ function Product() {
                     </h1>
                     <div className="main-container-section-product-left-text-content-plant-text">
                       <ul>
+                      <li> Lorem ipsum dolor sit amet consectetu.</li>
                         <li>
-                          {" "}
-                          High yield potential with short internodes.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
-                        <li>Good keeping quality and suitable for long distance shipping. </li>
                         <li>
-                        Suitable for open and net house cultivation.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
-                        <li>Suitable for open and net house cultivation.</li>
                       </ul>
                     </div>
                   </div>
@@ -338,7 +323,7 @@ function Product() {
               </div>
               <div className="main-container-section-product-left-text">
                 <div className="main-container-section-product-left-text-heading">
-                  Madhubala &nbsp;
+                Lorem &nbsp;
                   <FaStar className="FaStar" />
                   <FaStar className="FaStar" />
                   <FaStar className="FaStar" />
@@ -354,16 +339,12 @@ function Product() {
                     </h1>
                     <div className="main-container-section-product-left-text-content-plant-text">
                       <ul>
+                      <li> Lorem ipsum dolor sit amet consectetu.</li>
                         <li>
-                          {" "}
-                          Early in maturity.
-                        </li>
-                        <li>Very high in yield.</li>
-                        <li>
-                        Excellent pod quality with better shelf life.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                         <li>
-                        Suitable for long distance shipping.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                       </ul>
                     </div>
@@ -388,7 +369,7 @@ function Product() {
               </div>
               <div className="main-container-section-product-left-text">
                 <div className="main-container-section-product-right-text-heading">
-                  Niagara &nbsp;
+                Lorem &nbsp;
                   <FaStar className="FaStar-right" />
                   <FaStar className="FaStar-right" />
                   <FaStar className="FaStar-right" />
@@ -403,16 +384,12 @@ function Product() {
                     </h1>
                     <div className="main-container-section-product-left-text-content-plant-text">
                       <ul>
+                      <li> Lorem ipsum dolor sit amet consectetu.</li>
                         <li>
-                          {" "}
-                          Excellent fruit setting & vigor.
-                        </li>
-                        <li>Fruit harvesting starts 40 days after sowing.</li>
-                        <li>
-                        Good tolerance to disease.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                         <li>
-                        Shiny uniform fruits.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                       </ul>
                     </div>
@@ -442,7 +419,7 @@ function Product() {
               </div>
               <div className="main-container-section-product-left-text">
                 <div className="main-container-section-product-left-text-heading">
-                  Mannat &nbsp;
+                Lorem &nbsp;
                   <FaStar className="FaStar" />
                   <FaStar className="FaStar" />
                   <FaStar className="FaStar" />
@@ -458,14 +435,12 @@ function Product() {
                     </h1>
                     <div className="main-container-section-product-left-text-content-plant-text">
                       <ul>
+                      <li> Lorem ipsum dolor sit amet consectetu.</li>
                         <li>
-                          {" "}
-                          Excellent fruit setting & vigor.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
-                        <li>Light Green, Length 20 – 22 cm & weight 200 – 250 gm.</li>
-                        <li>Shiny uniform fruits.</li>
                         <li>
-                          Good tolerance to disease.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                       </ul>
                     </div>
@@ -490,7 +465,7 @@ function Product() {
               </div>
               <div className="main-container-section-product-left-text">
                 <div className="main-container-section-product-right-text-heading">
-                  Bharti &nbsp;
+                Lorem &nbsp;
                   <FaStar className="FaStar-right" />
                   <FaStar className="FaStar-right" />
                   <FaStar className="FaStar-right" />
@@ -505,16 +480,12 @@ function Product() {
                     </h1>
                     <div className="main-container-section-product-left-text-content-plant-text">
                       <ul>
+                      <li> Lorem ipsum dolor sit amet consectetu.</li>
                         <li>
-                          {" "}
-                          Good tolerance to Virus & heat.
-                        </li>
-                        <li>High yield potential.</li>
-                        <li>
-                        Achari type for Green purpose.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                         <li>
-                        Good keeping quality and suitable for long distance shipping. 
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                       </ul>
                     </div>
@@ -538,7 +509,7 @@ function Product() {
               </div>
               <div className="main-container-section-product-left-text">
                 <div className="main-container-section-product-left-text-heading">
-                  Sania &nbsp;
+                Lorem &nbsp;
                   <FaStar className="FaStar" />
                   <FaStar className="FaStar" />
                   <FaStar className="FaStar" />
@@ -554,14 +525,12 @@ function Product() {
                     </h1>
                     <div className="main-container-section-product-left-text-content-plant-text">
                       <ul>
+                      <li> Lorem ipsum dolor sit amet consectetu.</li>
                         <li>
-                          {" "}
-                          Excellent fruit setting & vigor.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
-                        <li>Suitable for dual purpose Green & Red (dry) with excellent bearing.</li>
-                        <li>Good keeping quality and suitable for long distance shipping. </li>
                         <li>
-                        High yield potential.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                       </ul>
                     </div>
@@ -586,7 +555,7 @@ function Product() {
               </div>
               <div className="main-container-section-product-left-text">
                 <div className="main-container-section-product-right-text-heading">
-                Punjab Sunehri &nbsp;
+                Lorem&nbsp;
                   <FaStar className="FaStar-right" />
                   <FaStar className="FaStar-right" />
                   <FaStar className="FaStar-right" />
@@ -601,14 +570,12 @@ function Product() {
                     </h1>
                     <div className="main-container-section-product-left-text-content-plant-text">
                       <ul>
+                      <li> Lorem ipsum dolor sit amet consectetu.</li>
                         <li>
-                          {" "}
-                          Highly resistant to Virus, fruit rot & knot nematodes.
-                        </li>
-                        <li>High yield potential & good heat tolerance with excellent fruit setting in Summer. 
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                         <li>
-                        Suitable for dual purpose Green & Red (dry).
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                       </ul>
                     </div>
@@ -639,7 +606,7 @@ function Product() {
               </div>
               <div className="main-container-section-product-left-text">
                 <div className="main-container-section-product-left-text-heading">
-                Jackpot &nbsp;
+                Lorem &nbsp;
                   <FaStar className="FaStar" />
                   <FaStar className="FaStar" />
                   <FaStar className="FaStar" />
@@ -655,15 +622,12 @@ function Product() {
                     </h1>
                     <div className="main-container-section-product-left-text-content-plant-text">
                       <ul>
+                      <li> Lorem ipsum dolor sit amet consectetu.</li>
                         <li>
-                          {" "}
-                          Prolific fruit set & good yield. 
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
-                        <li>Sweet taste, TSS 12 – 13 % sugar content.</li>
-                        <li>Very small seed.</li>
                         <li>
-                          Excellent keeping quality and suitable for long distance shipping.
-
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                       </ul>
                     </div>
@@ -688,7 +652,7 @@ function Product() {
               </div>
               <div className="main-container-section-product-left-text">
                 <div className="main-container-section-product-right-text-heading">
-                  Henry &nbsp;
+                Lorem &nbsp;
                   <FaStar className="FaStar-right" />
                   <FaStar className="FaStar-right" />
                   <FaStar className="FaStar-right" />
@@ -703,16 +667,12 @@ function Product() {
                     </h1>
                     <div className="main-container-section-product-left-text-content-plant-text">
                       <ul>
+                      <li> Lorem ipsum dolor sit amet consectetu.</li>
                         <li>
-                          {" "}
-                          High yielding hybrid has good fruit setting ability.
-                        </li>
-                        <li>Very good adaptability.</li>
-                        <li>
-                        Sweet taste, TSS 12% sugar content.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                         <li>
-                        Good keeping quality and suitable for long distance shipping.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                       </ul>
                     </div>
@@ -742,7 +702,7 @@ function Product() {
               </div>
               <div className="main-container-section-product-left-text">
                 <div className="main-container-section-product-left-text-heading">
-                Rambo &nbsp;
+                Lorem &nbsp;
                   <FaStar className="FaStar" />
                   <FaStar className="FaStar" />
                   <FaStar className="FaStar" />
@@ -758,15 +718,12 @@ function Product() {
                     </h1>
                     <div className="main-container-section-product-left-text-content-plant-text">
                       <ul>
+                      <li> Lorem ipsum dolor sit amet consectetu.</li>
                         <li>
-                          {" "}
-                          Prolific fruit set & good yield. 
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
-                        <li>High TSS 14 % sugar content, very sweet.</li>
-                        <li>Very small seed.</li>
                         <li>
-                          Excellent keeping quality and suitable for long distance shipping.
-
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                       </ul>
                     </div>
@@ -791,7 +748,7 @@ function Product() {
               </div>
               <div className="main-container-section-product-left-text">
                 <div className="main-container-section-product-right-text-heading">
-                 Nova &nbsp;
+                Lorem &nbsp;
                   <FaStar className="FaStar-right" />
                   <FaStar className="FaStar-right" />
                   <FaStar className="FaStar-right" />
@@ -806,16 +763,12 @@ function Product() {
                     </h1>
                     <div className="main-container-section-product-left-text-content-plant-text">
                       <ul>
+                        <li> Lorem ipsum dolor sit amet consectetu.</li>
                         <li>
-                          {" "}
-                          Average curd weight 700 gm – 950 gm.  
-                        </li>
-                        <li> Curd harvesting starts 55 - 60 days after transplanting.</li>
-                        <li>
-                        Sweet taste, TSS 12% sugar content.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                         <li>
-                        Moderate to good Xcc tolerance.
+                        Lorem ipsum dolor sit amet consectetu.
                         </li>
                       </ul>
                     </div>
@@ -837,7 +790,7 @@ function Product() {
           <GoQuote className="GoQuote-icon" />
         </div>
         <div className="product-container-gallary-text">
-          Partner in your Prosperity
+          Lorem ipsum dolor sit amet consectetu.
         </div>
       </div>
 

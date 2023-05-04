@@ -41,9 +41,14 @@ nav {
 {
     height: 60%;   
     width: 20vh;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-image: url(../Component/images/TG-Logo.png);
+    display: flex;
+    align-items: baseline;
+    font-size: 1.5rem;
+    color: #46b704;
+}
+.logo-text .navbar-logo span{
+    font-size: 3rem;
+    transform: translateY(2px);
 }
 .navbar-links
 {
