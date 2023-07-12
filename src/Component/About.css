@@ -67,7 +67,7 @@ align-self: center;
 {
 height: 65%;
 width: 99%;
-background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/08/4005938.jpg);
+background-image: url(./images/farmer.jpg);
 background-size: contain;
 background-repeat: no-repeat;
 display: flex;
@@ -415,7 +415,7 @@ padding: 70px 50px 0px 0px;
     height: 125vh;
     width: 100%;
     padding: 50px 100px 50px 100px ;
-    background-image:url(//farmino.elipso.site/wp-content/uploads/sites/8/2020/07/549532-PJZU9B-982.png);
+
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -441,7 +441,7 @@ padding: 70px 50px 0px 0px;
 {
     height: 80vh;
     width: 50%;
-    background-image: url(https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/healthy-food-P9M7VWX-1-scaled.jpg);
+    background-image:url(./images/values.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: -130px;

@@ -4,6 +4,9 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { useEffect, useState } from 'react';
 import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
+import lattice from "./images/lettuce.png"
+import nutrition from "./images/nutrition.png"
+import greenhouse from "./images/greenhouse.png"
 
 function Home() {
 
@@ -178,7 +181,7 @@ function Home() {
                     <div className="section-home-one-first">
                         <div className='logo'>
                             <span>
-                                <img src='https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/lettuce.png ' alt='new'></img>
+                                <img src={lattice} alt='new'></img>
                             </span>
                         </div>
                         <div className='text'>
@@ -195,7 +198,7 @@ function Home() {
 
                     <div className="section-home-one-second">
                         <div className='logo'>
-                            <span><img src='https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/greenhouse.png' alt='new'></img></span>
+                            <span><img src={greenhouse} alt='new'></img></span>
                         </div>
                         <div className='text'>
                             <div className='heading'>
@@ -210,7 +213,7 @@ function Home() {
 
                     <div className="section-home-one-third">
                         <div className='logo'>
-                            <span><img src='https://farmino.elipso.site/wp-content/uploads/sites/8/2020/07/nutrition.png' alt='new'></img></span>
+                            <span><img src={nutrition} alt='new'></img></span>
                         </div>
                         <div className='text'>
                             <div className='heading'>
